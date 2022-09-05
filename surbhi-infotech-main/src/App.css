@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+
+html body {
+  overflow-x: hidden;
+}
+
+button {
+  cursor: pointer;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.banner-section-main {
+  margin-top: 50px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.mr-2 {
+  margin-right: 15px;
+}
+
+@media (max-width:767px) {
+  .banner-section-main {
+    margin-top: 60px;
+  }
+}

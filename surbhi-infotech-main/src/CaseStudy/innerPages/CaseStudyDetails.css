@@ -1,0 +1,1765 @@
+.center {
+    /* display: flex;
+    justify-content: center; */
+}
+
+.main {
+    padding-top: 30px;
+}
+
+.client-name {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 132px;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 9;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.back-round-img-all-data-img {
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    max-width: 100%;
+    transform: translate(69%, 76%);
+}
+
+.back-round-img-op-ar-new {
+    position: absolute;
+    right: 50%;
+    bottom: 0;
+    transform: translate(63%, 50%);
+    max-width: 100%;
+}
+
+.client-name-storke {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    /* left: 263px; */
+    margin-top: -148px;
+    margin-left: 12px;
+    position: absolute;
+    opacity: 0.4;
+}
+
+.back-round-img-op-ar {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    max-width: 100%;
+}
+
+.left-image-project-backgroud-two {
+    position: absolute;
+    left: 22px;
+    bottom: -220px;
+}
+
+.about-client-left {
+    padding-right: 20px;
+}
+
+.left-image-project-backgroud-one-in {
+    position: absolute;
+    left: 33px;
+    bottom: -103px;
+}
+
+.back-round-img-all-one {
+    position: absolute;
+    bottom: -105px;
+    left: 104px;
+}
+
+.left-image-project-backgroud-one-get {
+    position: absolute;
+    left: 20px;
+    bottom: -220px;
+}
+
+.back-round-img-new-data {
+    position: absolute;
+    bottom: -221px;
+    left: unset;
+    right: -135px;
+}
+
+.client-name-storke-three {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    /* left: 263px; */
+    margin-top: -277px;
+    margin-left: 19px;
+    position: absolute;
+    opacity: 0.4;
+    width: 745px;
+}
+
+.client-name-storke-four {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    /* left: 263px; */
+    margin-top: -146px;
+    margin-left: 19px;
+    position: absolute;
+    opacity: 0.4;
+}
+
+.client-desc {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+.view-website {
+    background: #62E7F3;
+    border: 1px solid #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-top: 26px;
+}
+
+.client-stock-name {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute;
+    margin-top: -148px;
+    margin-left: 20px;
+}
+
+.client-name-storke-two {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    /* left: 263px; */
+    margin-top: -277px;
+    margin-left: 19px;
+    /* position: absolute; */
+    opacity: 0.4;
+}
+
+.container-new,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1440px;
+}
+
+.container-new {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.casestudy-details-container .container-new {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.row {
+    display: flex;
+}
+
+.client-left-section {
+    padding-top: 140px;
+}
+
+.about-client-section {
+    margin-top: 200px;
+    align-items: center;
+}
+
+.border-line {
+    border-bottom: 1px solid #4D4D4D;
+    width: 28px;
+    margin-right: 10px;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.about-client-right-img {
+    /* padding-left: 127px; */
+}
+
+.role-desc {
+    margin-top: 28px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.mt-12 {
+    margin-top: 12px;
+}
+
+.project-specification-section {
+    /* padding-top: 150px; */
+    align-items: center;
+}
+
+.table-label {
+    width: 189px;
+    margin-right: 29px;
+
+}
+
+.table-row {
+    display: flex;
+    margin-bottom: 11px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 34px;
+    /* identical to box height, or 155% */
+
+    color: #FFFFFF;
+}
+
+.back-round-img-six {
+    position: absolute;
+    bottom: -228px;
+    right: -40px;
+}
+
+.table {
+    margin-top: 36px;
+}
+
+.project-section {
+    margin-top: 200px;
+    align-items: center;
+}
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.project-desc {
+    margin-top: 28px;
+}
+
+.back-round-img {
+    position: absolute;
+    bottom: -105px;
+    left: 0;
+
+}
+
+.casestudy-details-container .laptop-img {
+    position: relative;
+    z-index: 9;
+    top: 0;
+    left: 0;
+    transform: translate(0px, 0px);
+    max-width: 100%;
+}
+
+.left-image-project-backgroud {
+    position: absolute;
+    left: -40px;
+    bottom: -105px;
+}
+
+.left-image-project {
+    position: relative;
+    z-index: 9;
+}
+
+.social-icon {
+    margin-top: 15px;
+}
+
+.casestudy-details-container .our-role-section {
+    /* padding-top: 150px; */
+    align-items: center;
+}
+
+.pro-specification {
+    padding-left: 30px;
+    position: relative;
+}
+
+.casestudy-details-container .role-right-section {
+    /* padding-left: 179px; */
+    padding-left: 60px;
+}
+
+.project-section-right {
+    /* padding-left: 145px; */
+    padding-top: 32px;
+    position: relative;
+    text-align: center;
+}
+
+.casestudy-details-container .role-left-section {
+    padding-top: 32px;
+    position: relative;
+    text-align: center;
+}
+
+.back-round-img-new-left-img {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.back-round-img-two {
+    position: absolute;
+    right: -30px;
+    bottom: -100px;
+}
+
+.back-round-img-five {
+    position: absolute;
+    bottom: -225px;
+    right: -118px;
+}
+
+.role-right-section-new {
+    padding-left: 67px;
+}
+
+.left-image-project-backgroud-one {
+    position: absolute;
+
+    right: -76px;
+    bottom: -221px;
+}
+
+.casestudy-details-container {
+    padding-bottom: 0px;
+}
+
+.left-container {
+    width: 50%;
+    margin-top: 0px !important;
+    /* margin-left: 225px; */
+}
+
+
+.competitive-analysis-point-section {
+    margin-top: 23px;
+}
+
+.points-desc {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+    align-items: center;
+}
+
+.img-left-space {
+    padding-left: 13px;
+}
+
+.lets-task-section-top-space {
+    padding-top: 200px;
+}
+
+.left-image-project-backgroud-three-four {
+    position: absolute;
+    right: 0px;
+    bottom: -220px;
+}
+
+.back-round-img-six-one {
+    position: absolute;
+    bottom: -164px;
+    right: unset;
+    left: -48px;
+}
+
+.back-round-img-all-new-img {
+    position: absolute;
+    bottom: -247px;
+    left: unset;
+    right: -40px;
+}
+
+.netspace-img {
+    margin-top: 50px;
+    max-width: 70px;
+}
+
+.quotes-img {
+    bottom: 0;
+}
+
+.new-test .lets-talk-container {
+    margin-top: 50px;
+}
+
+.case-study-details-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* upadate page */
+.bg-laptop-inner {
+    padding-top: 100px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAr8AAAK1CAYAAADBgoaIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAz5SURBVHgB7dZBAQAQAAAxBPH2F0j/FoLclmJzn3cHAAAErAEAABHyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGR8s9UGQuX7d1EAAAAASUVORK5CYII=);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    padding-bottom: 100px;
+
+}
+
+.bg-right-laptop-inner {
+    padding-top: 100px;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAr8AAAK1CAYAAADBgoaIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAz5SURBVHgB7dZBAQAQAAAxBPH2F0j/FoLclmJzn3cHAAAErAEAABHyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGTILwAAGfILAECG/AIAkCG/AABkyC8AABnyCwBAhvwCAJAhvwAAZMgvAAAZ8gsAQIb8AgCQIb8AAGR8s9UGQuX7d1EAAAAASUVORK5CYII=);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: right;
+    padding-bottom: 100px;
+}
+
+.mt-10 {
+    margin-top: 5rem !important;
+}
+
+@media (min-width: 1367px) and (max-width: 1600px) {
+    .case-study-details-container {
+        max-width: 1240px !important;
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(60%, 50%);
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1600px) {
+    .about-client-right-img {
+        padding-left: 110px;
+    }
+
+
+}
+
+@media screen and (max-width:450px) {
+    .right-container {
+        padding-left: 30px;
+        width: 50%;
+        margin-top: 35px !important;
+    }
+
+    .casestudy-details-container .container-new {
+        /* width: 95%; */
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .bg-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .mt-10 {
+        margin-top: 0rem !important;
+    }
+
+    .bg-right-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(50%, 50%);
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(50%, 50%);
+        max-width: 100%;
+    }
+
+    .back-round-img-new-data {
+        position: absolute;
+        bottom: -193px;
+        left: unset;
+        right: -55px;
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud-two {
+        position: absolute;
+        right: -76px;
+        bottom: -190px;
+        left: unset;
+    }
+
+    .back-round-img-all-one {
+        position: absolute;
+        bottom: -105px;
+        max-width: 100%;
+        left: 0px;
+    }
+
+    .back-round-img-six {
+        position: absolute;
+        bottom: -159px;
+        right: -50px;
+        max-width: 100%;
+    }
+
+    .back-round-img-op-ar {}
+
+    .left-container {
+        width: 50%;
+        margin-top: 0px !important;
+        margin-left: 64px;
+    }
+
+    .casestudy-details-container {
+        /* margin-right: 20px; */
+        padding-bottom: 25px;
+    }
+
+    .row {
+        display: block;
+    }
+
+    .w-50 {
+        width: 100%;
+    }
+
+    .center {
+        display: block;
+        justify-content: center;
+    }
+
+    .client-name {
+        font-size: 50px;
+        line-height: 70px
+    }
+
+    .client-name-storke {
+        font-size: 50px;
+        margin-top: -107px;
+        margin-left: 12px;
+    }
+
+    .client-desc {
+        font-size: 18px;
+    }
+
+    .client-left-section {
+        padding-top: 10px;
+    }
+
+    .client-right-section img {
+        max-width: 100%;
+        padding-top: 25px;
+    }
+
+    .client-stock-name {
+        margin-top: -147px;
+        margin-left: 10px;
+        font-size: 50px;
+        line-height: 70px;
+        position: unset;
+    }
+
+    .about-client-section {
+        margin-top: 100px;
+    }
+
+    .new-social {
+        display: flex;
+    }
+
+    .about-client-right-img {
+        padding-left: 0px;
+        max-width: 100%;
+        padding-top: 30px;
+    }
+
+    .role-left-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .our-role-section {
+        padding-top: 60px;
+    }
+
+    .role-right-section {
+        padding-left: 0px !important;
+        padding-top: 50px;
+    }
+
+    .role-desc {
+        margin-top: 0px;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .project-specification-section {
+        padding-top: 60px;
+        flex-direction: column-reverse;
+        display: flex;
+    }
+
+    .client-name-storke-two {
+        font-size: 50px;
+        line-height: 70px;
+        /* left: 263px; */
+        margin-top: -146px;
+        margin-left: 11px;
+        /* position: absolute; */
+        opacity: 0.4;
+    }
+
+    .pro-specification {
+        padding-left: 0;
+        margin-top: 40px;
+    }
+
+    .pro-specification img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .client-name-storke-three {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -146px;
+        margin-left: 9px;
+        width: 80%;
+    }
+
+    .project-section {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .project-section-right {
+        padding-left: 0px;
+        padding-top: 32px;
+    }
+
+    .laptop-img {
+        position: relative;
+        z-index: 9;
+        max-width: 100%;
+    }
+
+    .back-round-img {
+        position: absolute;
+        margin-top: 0px;
+        right: 0px;
+        max-width: 100%;
+    }
+
+    .client-name-storke-four {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -78px;
+        margin-left: 10px;
+    }
+
+    .left-image-project-backgroud {
+        position: absolute;
+        left: -6px;
+    }
+
+    .left-image-project-backgroud-three-four {
+        position: absolute;
+        right: 0px;
+        bottom: -220px;
+        left: -6px;
+    }
+
+    .back-round-img-two {
+        position: absolute;
+        margin-top: 80px;
+        right: 0;
+        max-width: 100%;
+    }
+
+    .role-right-section-new {
+        padding-left: 0px;
+        margin-top: 100px;
+    }
+
+    .left-image-project-backgroud-one {
+        position: unset;
+        margin-top: -124px;
+        left: 53px;
+        margin-left: 53px;
+    }
+
+    .stock-three-res {
+        margin-top: -217px;
+    }
+
+    .back-round-img-six-one {
+        position: absolute;
+        bottom: -122px;
+        right: unset;
+        left: 0;
+    }
+
+    .back-round-img-all-new-img {
+        position: absolute;
+        bottom: -142px;
+        left: unset;
+        right: -56px;
+        max-width: 100%;
+    }
+
+    .project-section-left {
+        padding-top: 100px;
+        order: 2;
+    }
+
+    .new-sec {
+        padding-top: 115px;
+    }
+}
+
+@media (min-width:451px) and (max-width:650px) {
+    .right-container {
+        padding-left: 30px;
+        width: 50%;
+        margin-top: 35px !important;
+    }
+
+    .casestudy-details-container .casestudy-details-container .container-new {
+        /* width: 95%; */
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .bg-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .mt-10 {
+        margin-top: 0rem !important;
+    }
+
+    .bg-right-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(50%, 50%);
+        max-width: 100%;
+    }
+
+    .back-round-img-six-one {
+        position: absolute;
+        bottom: -135px;
+        right: 0;
+        left: 18px;
+    }
+
+    .back-round-img-new-data {
+        position: absolute;
+        bottom: -193px;
+        left: unset;
+        right: -55px;
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud-three-four {
+        position: absolute;
+        right: 0px;
+        bottom: -220px;
+        left: -6px;
+    }
+
+    .left-image-project-backgroud-two {
+        position: absolute;
+        right: 0px;
+        bottom: -190px;
+        left: unset;
+    }
+
+    .back-round-img-all-one {
+        position: absolute;
+        bottom: -105px;
+        max-width: 100%;
+        left: 0px;
+    }
+
+    .back-round-img-six {
+        position: absolute;
+        bottom: -159px;
+        right: -50px;
+        max-width: 100%;
+    }
+
+    .back-round-img-op-ar {}
+
+
+    .role-left-section {
+        padding-top: 60px;
+        position: relative;
+    }
+
+    .left-container {
+        width: 50%;
+        margin-top: 0px !important;
+        margin-left: 64px;
+    }
+
+    .casestudy-details-container {
+        margin-right: 20px;
+        padding-bottom: 150px;
+    }
+
+    .row {
+        display: block;
+    }
+
+    .w-50 {
+        width: 100%;
+    }
+
+    .center {
+        display: block;
+        justify-content: center;
+    }
+
+    .client-name {
+        font-size: 50px;
+        line-height: 70px
+    }
+
+    .client-name-storke {
+        font-size: 50px;
+        margin-top: -107px;
+        margin-left: 12px;
+    }
+
+    .client-desc {
+        font-size: 18px;
+    }
+
+    .client-left-section {
+        padding-top: 10px;
+    }
+
+    .client-right-section img {
+        max-width: 100%;
+        padding-top: 25px;
+    }
+
+    .client-stock-name {
+        margin-top: -80px;
+        margin-left: 10px;
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .about-client-section {
+        margin-top: 100px;
+    }
+
+    .new-social {
+        display: flex;
+    }
+
+    .about-client-right-img {
+        padding-left: 0px;
+        max-width: 100%;
+        padding-top: 30px;
+    }
+
+    .role-left-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .our-role-section {
+        padding-top: 60px;
+    }
+
+    .role-right-section {
+        padding-left: 0px !important;
+        padding-top: 50px;
+    }
+
+    .role-desc {
+        margin-top: 0px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .project-specification-section {
+        padding-top: 60px;
+        flex-direction: column-reverse;
+        display: flex;
+    }
+
+    .client-name-storke-two {
+        font-size: 50px;
+        line-height: 70px;
+        /* left: 263px; */
+        margin-top: -146px;
+        margin-left: 11px;
+        /* position: absolute; */
+        opacity: 0.4;
+    }
+
+    .pro-specification {
+        padding-left: 0;
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .pro-specification img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .client-name-storke-three {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -146px;
+        margin-left: 9px;
+        width: 90%;
+    }
+
+    .project-section {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .project-section-right {
+        padding-left: 0px;
+        padding-top: 32px;
+    }
+
+    .laptop-img {
+        position: relative;
+        z-index: 9;
+        max-width: 100%;
+    }
+
+    .back-round-img {
+        position: absolute;
+        margin-top: 0px;
+        right: 0px;
+        max-width: 100%;
+    }
+
+    .client-name-storke-four {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -78px;
+        margin-left: 10px;
+    }
+
+    .left-image-project-backgroud {
+        position: absolute;
+        margin-top: 48px;
+        left: 0px;
+    }
+
+    .back-round-img-two {
+        position: absolute;
+        margin-top: 80px;
+        right: 0;
+        left: 15px;
+        max-width: 100%;
+    }
+
+    .role-right-section-new {
+        padding-left: 0px;
+        margin-top: 100px;
+    }
+
+    .left-image-project-backgroud-one {
+        /* position: unset;
+        margin-top: -124px;
+        left: 53px; */
+        margin-left: 53px;
+    }
+
+    .stock-three-res {
+        margin-top: -147px;
+    }
+
+    .new-storke-name-three {
+        margin-top: -77px;
+    }
+
+    .new-client-three-for-storek {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -76px;
+        margin-left: 9px;
+        width: 93%;
+    }
+
+    .role-left-section {
+        padding-top: 60px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .project-section-left {
+        padding-top: 100px;
+        order: 2;
+    }
+
+    .back-round-img-all-new-img {
+        position: absolute;
+        bottom: -204px;
+        left: 64px;
+        right: 0px;
+    }
+
+
+    .new-sec {
+        padding-top: 115px;
+    }
+}
+
+@media (min-width:651px) and (max-width:800px) {
+    .right-container {
+        padding-left: 30px;
+        width: 50%;
+        margin-top: 35px !important;
+    }
+
+    .bg-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .mt-10 {
+        margin-top: 0rem !important;
+    }
+
+    .bg-right-laptop-inner {
+        background-image: none;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .project-section-left {
+        padding-top: 100px;
+        order: 2;
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(50%, 50%);
+        max-width: 100%;
+    }
+
+    .new-sec {
+        padding-top: 115px;
+    }
+
+    .back-round-img-all-one {
+        position: absolute;
+        bottom: -105px;
+        max-width: 100%;
+        left: 0px;
+    }
+
+    .back-round-img-new-data {
+        position: absolute;
+        bottom: -221px;
+        left: unset;
+        right: -73px;
+    }
+
+    .left-image-project-backgroud-three-four {
+        position: absolute;
+        right: 0px;
+        bottom: -220px;
+        left: unset;
+    }
+
+    .back-round-img-six {
+        position: absolute;
+        bottom: -159px;
+        right: -50px;
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud-two {
+        position: absolute;
+        left: unset;
+        right: 0;
+        bottom: -220px;
+    }
+
+    .role-left-section {
+        padding-top: 60px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .back-round-img-op-ar {}
+
+    .left-container {
+        width: 50%;
+        margin-top: 0px !important;
+        margin-left: 64px;
+    }
+
+    .casestudy-details-container {
+        margin-right: 20px;
+        padding-bottom: 150px;
+    }
+
+    .row {
+        display: block;
+    }
+
+    .w-50 {
+        width: 100%;
+    }
+
+    .center {
+        display: block;
+        justify-content: center;
+    }
+
+    .client-name {
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    .client-name-storke {
+        font-size: 60px;
+        margin-top: -114px;
+        margin-left: 12px;
+    }
+
+    .client-desc {
+        font-size: 20px;
+    }
+
+    .client-left-section {
+        padding-top: 10px;
+    }
+
+    .client-right-section img {
+        max-width: 100%;
+        padding-top: 25px;
+    }
+
+    .client-stock-name {
+        margin-top: -91px;
+        margin-left: 12px;
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    .about-client-section {
+        margin-top: 100px;
+    }
+
+    .new-social {
+        display: flex;
+    }
+
+    .about-client-right-img {
+        padding-left: 0px;
+        max-width: 100%;
+        padding-top: 30px;
+    }
+
+    .role-left-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .laptop-img {
+        max-width: 300px;
+    }
+
+    .our-role-section {
+        padding-top: 60px;
+    }
+
+    .role-right-section {
+        padding-left: 0px !important;
+        padding-top: 50px;
+    }
+
+    .role-desc {
+        margin-top: 0px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .project-specification-section {
+        padding-top: 60px;
+        flex-direction: column-reverse;
+        display: flex;
+    }
+
+    .client-name-storke-two {
+        font-size: 60px;
+        line-height: 80px;
+        /* left: 263px; */
+        margin-top: -88px;
+        margin-left: 11px;
+        /* position: absolute; */
+        opacity: 0.4;
+
+    }
+
+    .pro-specification {
+        padding-left: 0;
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    .pro-specification img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .client-name-storke-three {
+        font-size: 60px;
+        line-height: 80px;
+        margin-top: -146px;
+        margin-left: 9px;
+        width: 95%;
+    }
+
+    .project-section {
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .project-section-right {
+        padding-left: 0px;
+        padding-top: 32px;
+        justify-content: center;
+        display: flex;
+    }
+
+    .laptop-img {
+        position: relative;
+        z-index: 9;
+        max-width: 100%;
+    }
+
+    .back-round-img {
+        position: absolute;
+        margin-top: 117px;
+        right: 9px;
+        max-width: 100%;
+    }
+
+    .client-name-storke-four {
+        font-size: 50px;
+        line-height: 70px;
+        margin-top: -78px;
+        margin-left: 10px;
+    }
+
+    .left-image-project-backgroud {
+        position: absolute;
+        /* margin-top: 48px; */
+        left: unset;
+        right: unset;
+    }
+
+    .back-round-img-two {
+        position: absolute;
+        margin-top: 80px;
+        right: 0;
+        max-width: 100%;
+    }
+
+    .role-right-section-new {
+        padding-left: 0px;
+        margin-top: 100px;
+    }
+
+    .left-image-project-backgroud-one {
+        position: absolute;
+        left: 53px;
+        bottom: -226px;
+    }
+
+    .stock-three-res {
+        margin-top: -88px;
+    }
+
+    .new-storke-name-three {
+        margin-top: -77px;
+    }
+
+    .new-client-three-for-storek {
+        font-size: 60px;
+        line-height: 80px;
+        margin-top: -88px;
+        margin-left: 9px;
+        width: 93%;
+    }
+}
+
+
+
+@media (min-width:801px) and (max-width:1366px) {
+
+    .casestudy-details-container .container-new {
+        max-width: 1140px;
+    }
+
+    .back-round-img-op-ar-new {
+        position: absolute;
+        right: 50%;
+        bottom: 0;
+        transform: translate(62%, 50%);
+        max-width: 100%;
+    }
+
+    .about-client-section {
+        margin-top: 100px;
+    }
+
+    .our-role-section {
+        padding-top: 100px;
+        align-items: center;
+    }
+
+    .project-specification-section {
+        align-items: center;
+        padding-top: 100px;
+    }
+
+    .casestudy-details-container {
+        padding-bottom: 100px;
+    }
+
+    .back-round-img-six-one {
+        position: absolute;
+        bottom: -164px;
+        right: unset;
+        left: 0px;
+    }
+
+    .back-round-img-six {
+        position: absolute;
+        bottom: -218px;
+        right: -15px;
+        left: unset;
+    }
+
+    .back-round-img-two {
+        position: absolute;
+        right: 0px;
+        bottom: -100px;
+    }
+
+    .back-round-img-all-new-img {
+        position: absolute;
+        bottom: -247px;
+        left: unset;
+        right: -75px;
+    }
+
+    .back-round-img-op-ar {}
+
+    .role-left-section {
+        padding-top: 32px;
+        position: relative;
+        text-align: center;
+    }
+
+    .left-image-project-backgroud-three-four {
+        position: absolute;
+        right: -60px;
+        bottom: -220px;
+    }
+
+    .left-image-project-backgroud-two {
+        position: absolute;
+        left: 76px;
+        bottom: -220px;
+        right: 0;
+    }
+
+    .client-right-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .about-client-right-img {
+        max-width: 100%;
+    }
+
+    .about-client-right-img {
+        padding-left: 20px;
+    }
+
+
+
+    .laptop-img {
+        max-width: 300px;
+    }
+
+    /* .pro-specification img {
+        max-width: 100%;
+    } */
+
+    .laptop-img {
+        position: relative;
+        z-index: 9;
+        max-width: 300px;
+    }
+
+    .back-round-img-new-left-img {
+        max-width: 100%;
+    }
+
+    .back-round-img {
+        position: unset;
+        margin-top: -151px;
+        right: 50px;
+        margin-left: 15px;
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud {
+        position: unset;
+        margin-top: -80px;
+        left: 174px;
+    }
+
+    .back-round-img-two {
+        /* position: unset;
+        margin-top: -124px;
+        right: 157px; */
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud-one {
+        position: unset;
+        margin-top: -142px;
+        left: 174px;
+    }
+
+    .client-name {
+        font-size: 70px;
+        line-height: 100px;
+    }
+
+    .client-name-storke {
+        font-size: 75px;
+        line-height: 100px;
+        margin-top: -110px;
+        margin-left: 12px;
+    }
+
+    .about-client-right-img {
+        padding-left: 15px;
+    }
+
+    .role-desc {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .role-right-section {
+        padding-left: 30px;
+    }
+
+    .project-section-right {
+        padding-left: 0px;
+        text-align: center;
+        padding-top: 32px;
+    }
+
+    .role-right-section-new {
+        padding-left: 20px;
+        width: 50%;
+    }
+
+    .talk-description {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 36px;
+        width: 100%;
+        color: #FFFFFF;
+        /* margin-top: 426px; */
+    }
+}
+
+.lets-task-section-top-space {
+    padding-top: 0;
+}
+
+.lets-task-section-top-space .lets-talk-container {
+    margin-top: 100px;
+    align-items: center;
+}
+
+@media (min-width:1367px) and (max-width:1600px) {
+
+    .casestudy-details-container .container-new {
+        max-width: 1240px;
+    }
+
+    .pro-specification {
+        padding-left: 0px;
+        position: relative;
+        text-align: center;
+    }
+
+    .our-role-section {
+        padding-top: 100px;
+        align-items: center;
+    }
+
+    .casestudy-details-container {
+        padding-bottom: 125px;
+    }
+
+    .back-round-img-six {
+        position: absolute;
+        bottom: -228px;
+        right: 0px;
+    }
+
+    .client-right-section img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .about-client-right-img {
+        max-width: 100%;
+    }
+
+    .about-client-right-img {
+        padding-left: 20px;
+    }
+
+    .role-left-section img {
+        max-width: 100%;
+    }
+
+    .pro-specification img {
+        max-width: 100%;
+    }
+
+    .laptop-img {
+        position: relative;
+        z-index: 9;
+        max-width: 100%;
+    }
+
+    .back-round-img {
+        /* position: unset; */
+        margin-top: -151px;
+        right: 50px;
+        margin-left: 15px;
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud {
+        position: absolute;
+        left: unset;
+        bottom: -105px;
+    }
+
+    .role-left-section {
+        padding-top: 32px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .left-image-project-backgroud-two {
+        position: absolute;
+        left: 100px;
+        bottom: -220px;
+    }
+
+    .left-image-project-backgroud-three-four {
+        position: absolute;
+        right: -23px;
+        bottom: -220px;
+    }
+
+    .back-round-img-two {
+        /* position: unset; */
+        margin-top: -124px;
+        /* right: 157px; */
+        max-width: 100%;
+    }
+
+    .left-image-project-backgroud-one {
+        /* position: unset;
+        margin-top: -142px;
+        left: 174px; */
+    }
+
+    .client-name {
+        font-size: 70px;
+        line-height: 100px;
+    }
+
+    .client-name-storke {
+        font-size: 75px;
+        line-height: 100px;
+        margin-top: -110px;
+        margin-left: 12px;
+    }
+
+    .about-client-right-img {
+        padding-left: 100px;
+    }
+
+    .role-desc {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .role-right-section {
+        padding-left: 30px;
+    }
+
+    .project-section-right {
+        padding-left: 0px;
+        padding-top: 32px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .back-round-img-op-ar {
+        position: absolute;
+        bottom: -82px;
+        right: unset;
+        left: unset;
+    }
+
+    .role-right-section-new {
+        padding-left: 20px;
+        width: 50%;
+    }
+
+    .talk-description {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 36px;
+        /* width: 100%; */
+        color: #FFFFFF;
+        /* margin-top: 426px; */
+    }
+}

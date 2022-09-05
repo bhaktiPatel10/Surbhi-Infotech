@@ -1,0 +1,128 @@
+.casestudy-left-img img {
+    margin-left: 100px;
+}
+
+.center-casestudy {
+    display: flex;
+    justify-content: center;
+}
+
+.line-width {
+    margin-bottom: 3px;
+}
+
+.casestudy-custom-left img {
+    margin-left: -280px;
+
+}
+
+.custom-case-right {
+    margin-left: 150px;
+    margin-top: 75px;
+}
+
+.custom-case-right {
+    margin-top: 122px;
+}
+
+.case-right {
+    margin-top: 120px;
+}
+
+
+.case-text h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 9;
+}
+
+.stock-caseone {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute !important;
+    margin-top: -162px;
+    z-index: 1 !important;
+    margin-left: 9px;
+}
+
+.stock-casethree {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute !important;
+    margin-top: -162px;
+    z-index: 1 !important;
+    margin-left: -18px;
+}
+
+.stock-casetwo {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute !important;
+    margin-top: -102px;
+    z-index: 1 !important;
+    margin-left: -18px;
+}
+
+.stock-casefour {
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute !important;
+    margin-top: -102px;
+    z-index: 1 !important;
+    margin-left: 9px;
+}
+
+.casestudy-custom-left {
+    margin-left: 117px;
+}
+
+.cu-case-mr {
+    margin-right: 100px;
+    text-align: right;
+}
+
+.new-p-case-text {
+    text-align: right;
+    margin-right: 55px;
+}
+
+.case-text p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.main-case-study {
+    display: flex;
+    margin-top: 112px;
+    margin-bottom: 193px;
+}
+
+.case-right {
+    margin-left: -78px;
+    margin-top: 75px;
+}
+
+.case-img-two img {
+    margin-left: -256px;
+}
+
+.casestudy-custom-left img {
+    margin-left: -280px;
+}

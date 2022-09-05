@@ -1,0 +1,2725 @@
+/* .app-development {
+    padding-top: 115px;
+} */
+
+.container-new {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-new,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1440px;
+}
+
+.shopi-banner {
+    max-width: 100%;
+}
+
+.shopi-banner .sopifi-banner-left {
+    width: 50%;
+}
+
+.shopi-banner .sopifi-banner-right {
+    width: 50%;
+}
+
+.app-development .shopi-banner {
+    max-width: 100%;
+    background-image: url(/public/images/shopifybennerback.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.row-shopify {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sopifi-banner-left .shopi-banner-content {
+    padding-left: 160px;
+    padding-right: 60px;
+}
+
+.sopifi-banner-left .shopi-banner-content h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    color: #FFFFFF;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+
+.sopifi-banner-left .shopi-banner-content h3 span {
+    background-color: #fff;
+    background-image: linear-gradient(209.7deg, #0274F9 20.98%, #01F5FF 89.69%);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+.sopifi-banner-left .shopi-banner-content p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+    background: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    color: #0D0C22;
+    padding: 20px 40px;
+}
+
+.app-development .sopifi-banner-right .bag-shopi {
+    background-image: url('/public/images/moblieback.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 25px;
+    padding-bottom: 0;
+}
+
+.app-development .bag-shopi .bg-banner-inner {
+    text-align: center;
+}
+
+
+
+.bag-shopi .bg-banner-inner img {
+    padding-top: 50px;
+    padding-bottom: 0;
+    max-width: 100%;
+}
+
+.number-of {
+    padding-top: 98px;
+}
+
+.number-of .number-row {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    flex-wrap: unset;
+}
+
+.new-nu-sho {
+    margin-right: 10px;
+}
+
+.number-of .number-row .box-number {
+    background: linear-gradient(180deg, rgba(98, 231, 243, 0) 0%, #62e7f326 53.12%, rgba(98, 231, 243, 0) 100%);
+    padding: 50px;
+}
+
+.number-of .number-row .box-number .content-box h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.number-of .number-row .box-number .content-box p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.app-development .about-the-trust {
+    max-width: 100%;
+    margin-top: 100px;
+    background: transparent;
+}
+
+.about-the-trust .row-trust {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.about-the-trust .row-trust .trust-left {
+    max-width: 45%;
+}
+
+
+
+.about-the-trust .row-trust .trust-right {
+    max-width: 55%;
+}
+
+.trust-right .trust-right-content h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 70px;
+    color: #FFFFFF;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+
+.trust-right .trust-right-content h3 span {
+    background-color: #fff;
+    background-image: linear-gradient(209.7deg, #0274F9 20.98%, #01F5FF 89.69%);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+.trust-right .trust-right-content p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.trust-right .trust-right-content {
+    padding-left: 70px;
+    padding-right: 160px;
+}
+
+.trust-right .trust-right-content .trust-btn button {
+    background: #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    color: #0D0C22;
+    padding: 20px 40px;
+}
+
+.app-development .soluiton-slider .releted-services-one {
+    background: #14132E;
+    border-radius: 10px;
+    border: none;
+    min-height: auto;
+}
+
+.app-development .releted-services-one .img-releted {
+    padding: 20px;
+}
+
+.soluiton-slider .swiper {
+    padding: 100px;
+}
+
+.soluiton-slider .swiper .swiper-slide {
+    opacity: 0;
+}
+
+.soluiton-slider .swiper .swiper-slide-prev {
+    opacity: 1 !important;
+}
+
+.soluiton-slider .swiper .swiper-slide-active {
+    opacity: 1 !important;
+}
+
+.soluiton-slider .swiper .swiper-slide-next {
+    opacity: 1 !important;
+}
+
+.app-development .soluiton-slider .releted-services-one .img-releted img {
+    width: unset;
+}
+
+.soluiton-slider .releted-services-one .service-releted-content {
+    padding: 20px;
+}
+
+.app-development .soluiton-slider .releted-services-one .service-releted-content h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.soluiton-slider .releted-services-one .service-releted-content p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.soluiton-slider .releted-services-one .service-releted-content .btn-solution p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #62E7F3;
+    cursor: pointer;
+}
+
+.soluiton-slider .releted-services-one .service-releted-content .btn-solution p img {
+    padding-left: 15px;
+}
+
+.soluiton-slider .swiper-button-next,
+.soluiton-slider .swiper-button-prev {
+    position: absolute;
+    top: 50%;
+    padding: 6px;
+    width: 40px;
+    margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+    z-index: 10;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border: 1px solid #62e7f3;
+    border-radius: 50%;
+    justify-content: center;
+    color: #62e7f3;
+}
+
+.soluiton-slider .swiper-button-next:after,
+.soluiton-slider .swiper-button-prev:after {
+    font-family: swiper-icons;
+    font-size: 15px;
+    text-transform: none !important;
+    letter-spacing: 0;
+    font-variant: initial;
+    line-height: 1;
+}
+
+.soluiton-slider .swiper-button-next:hover,
+.soluiton-slider .swiper-button-prev:hover {
+    background: #62E7F3;
+    /* box-shadow: 0px 8px 14px #62E7F3; */
+    color: #fff;
+}
+
+.pricing-table {
+    margin-top: 100px;
+    background: #14132E;
+}
+
+.pricing-table .container {
+    width: 100%;
+    background-color: transparent;
+    /* height: 232px; */
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* .pricing-table {
+    overflow-x: auto;
+} */
+
+.one-two {
+    height: 20px;
+}
+
+.pricing-table table {
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 100px;
+}
+
+.pricing-table table tr {
+    background: #0D0C22;
+    box-shadow: 0px 4px 4px rgb(26 100 190 / 10%);
+    border-radius: 8px;
+}
+
+.pricing-table table tr th {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.pricing-table th {
+    padding: 10px;
+}
+
+.pricing-table td {
+    text-align: center;
+}
+
+.t-body-pricing {
+    background: #0D0C22;
+    border-radius: 8px;
+}
+
+.t-body-pricing td {
+    padding: 15px;
+}
+
+.t-body-pricing .one-tr td {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+
+.shopi-inpui-form .so-input .PhoneInput .PhoneInputCountryIcon--border {
+    background-color: transparent !important;
+}
+
+.t-body-pricing .two-tr td {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.table-btn-one button {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    color: #62E7F3;
+    background: #0D0C22;
+    border: 1px solid #62E7F3;
+    padding: 15px 25px;
+    transition: 0.3s all;
+}
+
+.table-btn-one button:hover {
+    color: #000;
+    background: #62E7F3;
+}
+
+
+.frequently .accordian {
+    margin-top: 100px;
+    display: flex;
+}
+
+.frequently .accordian-left-section {
+    width: 50%;
+    padding: 0 15px;
+    margin-top: 0;
+}
+
+.frequently .accordian-row {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.frequently .active-border {
+    border-bottom: none;
+    padding-bottom: 20px;
+}
+
+.app-development .frequently .accordian-row-title {
+    display: flex;
+    justify-content: space-between;
+    background: #0D0C22;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+}
+
+.app-development .frequently .accordian-title {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.app-development .frequently .accordian-description {
+    margin-top: 0px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    color: #CCCCCC;
+    animation: showDesc 0.5s linear;
+    animation-iteration-count: 1;
+    transition: 0.5s all;
+    background: #0D0C22;
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.frequently .accordian-right-section {
+    margin-left: 62px;
+    max-width: 50%;
+    width: 100%;
+}
+
+.table-btn-one {
+    padding-bottom: 20px;
+}
+
+.accordian-row-title img {
+    width: 17px;
+    height: 11px;
+}
+
+.app-development .frequently {
+    margin-top: 0px;
+    background: #14132E;
+    padding-bottom: 0px;
+}
+
+.app-development .frequently .container {
+    width: 100%;
+    background-color: transparent;
+    /* height: 232px; */
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.app-development .solutions {
+    padding-bottom: 100px;
+}
+
+.app-development .portfolio-one {
+    margin-top: 20px;
+    background: transparent;
+    padding-bottom: 20px;
+}
+
+.portfolio-one .container {
+    width: 100%;
+    background-color: transparent;
+    /* height: 232px; */
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.portfolio-one .protfolio-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card-portfoli-one .prot-content h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding-top: 0px;
+    margin: 0;
+}
+
+.card-portfoli-one .prot-content .prot-btn p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #62E7F3;
+    padding-top: 10px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.card-portfoli-one .prot-content .prot-btn p img {
+    padding-left: 15px;
+}
+
+.protfolio-row .card-portfoli-one {
+    max-width: 33.33%;
+    flex: 0 0 33.33%;
+}
+
+.mb-8 {
+    margin-bottom: 2% !important;
+}
+
+.mb-9 {
+    margin-bottom: 3% !important;
+}
+
+.card-portfoli-one .prot-img img {
+    max-width: 100%;
+}
+
+.portfolio-one .view-more-portfolio {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.portfolio-one .view-more-portfolio button {
+    background: #62E7F3;
+    border: 1px solid #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    padding: 20px 40px;
+}
+
+.portfolio-one .view-more-portfolio button img {
+    padding-left: 10px;
+}
+
+.app-development .swiper-testi .soluiton-slider .testi-box-on {
+    background: #0D0C22;
+    position: relative;
+    padding: 30px;
+    /* display: flex;
+    align-items: center; */
+    min-height: 245px;
+}
+
+.testi-box-on .testi-content .testi-profile {
+    display: flex;
+    align-items: center;
+}
+
+.testi-box-on .testi-content .testi-profile .inner-testi {
+    padding-left: 10px;
+}
+
+.testi-box-on .testi-content .testi-profile .inner-testi h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.testi-box-on .testi-content .testi-profile .inner-testi p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.testi-box-on .testi-content .main-testi-content p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.testi-box-on .testi-content .qute-testi img {
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    transform: translate(-50%, -50%);
+}
+
+.testi-profile img {
+    border-radius: 50%;
+}
+
+.app-development .testi-monial {
+    background: #14132E;
+    padding-bottom: 50px;
+}
+
+.app-development .testi-monial .container {
+    width: 100%;
+    background-color: transparent;
+    /* height: 232px; */
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.app-development .contect-new-us {
+    margin-top: 50px;
+    background: transparent;
+    padding-bottom: 100px;
+}
+
+.app-development .qute-testi-one img {
+    position: absolute;
+    top: 11%;
+    left: 5%;
+    width: 35px;
+    transform: translate(-50%, -50%);
+}
+
+.app-development .qute-testi-two img {
+    position: absolute;
+    right: 6%;
+    width: 35px;
+    bottom: 34%;
+    transform: translate(-50%, -50%);
+}
+
+.app-development .testi-box-on .testi-content .main-testi-content {
+    padding: 10px;
+}
+
+
+.new-contect-form {
+    padding-top: 40px;
+}
+
+.contect-new-us .form-internal-section {
+    align-items: center;
+    display: flex;
+}
+
+.contect-new-us .form-internal-section .new-form-for-left,
+.contect-new-us .form-internal-section .new-form-for-right {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.contect-new-us .new-form-for-left .input-new input {
+    background: #47465b;
+    border: 1px solid #252438;
+    color: #fff;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    height: 60px;
+    line-height: 32px;
+    opacity: .4;
+    padding: 0 0 0 15px;
+    width: 95%;
+}
+
+.contect-new-us .error {
+    color: #cf0000c7;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    text-transform: capitalize;
+}
+
+.contect-new-us .form-internal-section .new-form-for-left,
+.contect-new-us .form-internal-section .new-form-for-right {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.contect-new-us .new-form-for-right .input-new input {
+    background: #47465b;
+    border: 1px solid #252438;
+    color: #fff;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    height: 60px;
+    line-height: 32px;
+    opacity: .4;
+    padding: 0 0 0 15px;
+    width: 95%;
+}
+
+.contect-new-us .mt-new-22 {
+    padding-top: 15px;
+}
+
+.contect-new-us .form-internal-textara textarea {
+    background: #47465b;
+    border: 1px solid #252438;
+    color: #fff;
+    font-family: Plus Jakarta Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    height: 180px;
+    line-height: 32px;
+    opacity: .4;
+    padding: 0 0 0 15px;
+    width: 97.5%;
+}
+
+.contect-new-us .form-internal-textara textarea:focus-visible {
+    border: 1px solid #4d4d4d;
+    box-shadow: none;
+}
+
+.contect-new-us .submit-new-btn-all {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.contect-new-us .mr-0 {
+    margin-right: 0;
+}
+
+.contect-new-us .contact-btn {
+    background: #62e7f3;
+    border: 1px solid #62e7f3;
+    height: 69px;
+    /* margin-right: 40px; */
+    width: 212px;
+}
+
+.contect-new-us .new-form-for-right .input-new input:focus {
+    border: 1px solid #4d4d4d;
+    box-shadow: none;
+}
+
+.contect-new-us .new-form-for-left .input-new input:focus {
+    border: 1px solid #4d4d4d;
+    box-shadow: none;
+}
+
+.shopify-e-commerce-development .e-commerce-development .e-title h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.shopify-e-commerce-development .e-commerce-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shopify-e-commerce-development .e-commerce-row .e-commerce-card {
+    max-width: 33.33%;
+    flex: 0 0 33.33%;
+}
+
+.shopify-e-commerce-development .e-commerce-row .e-commerce-card .e-commerce-img {
+    text-align: center;
+}
+
+.e-commerce-row .e-commerce-card .e-commerce-content {
+    padding: 25px;
+}
+
+.e-commerce-row .e-commerce-card .e-commerce-content h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #62E7F3;
+    margin: 0;
+}
+
+.e-commerce-row .e-commerce-card .e-commerce-content p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.banner-btn-row .view-project-btn {
+    padding-left: 30px;
+}
+
+.banner-btn-row .view-project-btn p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #62E7F3;
+    cursor: pointer;
+}
+
+.banner-btn-row .view-project-btn p img {
+    padding-left: 15px;
+}
+
+.banner-btn-row {
+    display: flex;
+    align-items: center;
+}
+
+.testi-monial .swiper .swiper-slide-prev {
+    opacity: 0 !important;
+}
+
+
+.soluiton-slider .solution-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+/* .soluiton-slider .solution-row .ml-20 {
+    margin-left: -30px;
+} */
+
+.soluiton-slider .solution-row .one-solution {
+    max-width: 33.33%;
+    flex: 0 0 33.33%;
+}
+
+.soluiton-slider .solution-row .one-solution .new-padding-soliution {
+    padding: 15px;
+}
+
+@media (min-width:1601px) and (max-width:1800px) {
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 140px;
+        padding-right: 60px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 20px;
+        line-height: 28px;
+        padding: 18px 30px;
+    }
+
+    .number-of {
+        padding-top: 80px;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 40px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-size: 32px;
+        line-height: 40px;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .bag-shopi .bg-banner-inner img {
+        padding-top: 50px;
+        max-width: 100%;
+        padding-bottom: 0;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 50%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 50%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 50px;
+        padding-right: 70px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 50px;
+        line-height: 70px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 35px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        background: #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        color: #0D0C22;
+        padding: 20px 35px;
+    }
+}
+
+@media (min-width:1367px) and (max-width:1600px) {
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 125px;
+        padding-right: 50px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 20px;
+        line-height: 29px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 18px 30px;
+    }
+
+    .number-of {
+        padding-top: 60px;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 25px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .bag-shopi .bg-banner-inner img {
+        padding-top: 50px;
+        padding-bottom: 0;
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .prot-img img {
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .pad-side {
+        padding: 0 15px;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 50%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 50%;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 60px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        background: #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 18px;
+        color: #0D0C22;
+        padding: 18px 30px;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 50px;
+        padding-right: 60px;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 50px;
+        line-height: 65px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 28px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}
+
+@media (min-width:1121px) and (max-width:1366px) {
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 60px;
+        padding-right: 30px;
+    }
+
+    .container-new {
+        width: unset !important;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 18px;
+        line-height: 34px;
+        padding: 18px 25px;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 16px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-size: 25px;
+        line-height: 25px;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .bag-shopi .bg-banner-inner img {
+        padding-top: 50px;
+        padding-bottom: 0;
+        max-width: 100%;
+    }
+
+    .number-of {
+        padding-top: 60px;
+    }
+
+    .card-portfoli-one .prot-img img {
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .pad-side {
+        padding: 0 15px;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 50%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 50%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 50px;
+        padding-right: 60px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 50px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        background: #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 18px;
+        color: #0D0C22;
+        padding: 18px 30px;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 45px;
+        line-height: 55px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 25px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .app-development .swiper-testi .soluiton-slider .testi-box-on {
+        background: #0D0C22;
+        position: relative;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        min-height: 271px;
+    }
+
+    .app-development .soluiton-slider .releted-services-one {
+        background: #14132E;
+        border-radius: 10px;
+        border: none;
+        min-height: 417px;
+    }
+}
+
+@media (min-width:981px) and (max-width:1120px) {
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 40px;
+        padding-right: 30px;
+    }
+
+    .container-new {
+        width: unset !important;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .testi-box-on .testi-content .qute-testi img {
+        position: absolute;
+        max-width: 10%;
+        top: 23px;
+        right: 0px;
+        transform: translate(-50%, -50%);
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 15px 25px;
+    }
+
+    .number-of {
+        padding-top: 30px;
+    }
+
+    .number-of .number-row {
+        display: flex;
+        align-items: unset;
+        justify-content: unset;
+        flex-wrap: unset;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 9px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-size: 25px;
+        line-height: 28px;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    .bag-shopi .bg-banner-inner img {
+        padding-top: 50px;
+        padding-bottom: 0;
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .prot-img img {
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .pad-side {
+        padding: 0 15px;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 50%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 50%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 40px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        background: #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 16px;
+        color: #0D0C22;
+        padding: 16px 30px;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 55px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 19px;
+        line-height: 20px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .app-development .qute-testi-one img {
+        position: absolute;
+        top: 9%;
+        left: 9%;
+        width: 35px;
+        transform: translate(-50%, -50%);
+    }
+
+    .app-development .qute-testi-two img {
+        position: absolute;
+        right: 6%;
+        width: 35px;
+        bottom: 27%;
+        transform: translate(-50%, -50%);
+    }
+
+    .app-development .swiper-testi .soluiton-slider .testi-box-on {
+        background: #0D0C22;
+        position: relative;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        min-height: 297px;
+    }
+
+    .app-development .soluiton-slider .releted-services-one {
+        background: #14132E;
+        border-radius: 10px;
+        border: none;
+        min-height: 416px;
+    }
+}
+
+@media (min-width:768px) and (max-width:980px) {
+    .container-new {
+        width: unset;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .testi-box-on .testi-content .qute-testi img {
+        position: absolute;
+        top: 28px;
+        max-width: 10%;
+        right: 0px;
+        transform: translate(-50%, -50%);
+    }
+
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .app-development .sopifi-banner-left .shopi-banner-content .view-project-btn p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .app-development .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 13px;
+        line-height: 28px;
+        padding: 15px 24px;
+    }
+
+    .number-of {
+        padding-top: 20px;
+    }
+
+    .number-of .number-row {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-evenly;
+        flex-direction: row;
+        align-content: flex-start;
+        flex-wrap: nowrap;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 15px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-size: 20px;
+        line-height: 30px;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-size: 10px;
+        line-height: 10px;
+    }
+
+    .sopifi-banner-right .bag-shopi {
+        padding: 50px 25px;
+        padding-bottom: 0;
+    }
+
+    .bag-shopi .bg-banner-inner img {
+        padding-top: 50px;
+        padding-bottom: 0;
+        max-width: 100%;
+    }
+
+    .frequently .accordian-description {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .frequently .accordian-title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .card-portfoli-one .prot-img img {
+        max-width: 100%;
+    }
+
+    .card-portfoli-one .pad-side {
+        padding: 0 15px;
+    }
+
+    .card-portfoli-one .prot-content h3 {
+        font-size: 23px;
+        line-height: 23px;
+    }
+
+    .card-portfoli-one .prot-content .prot-btn p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 50%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 50%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .trust-right .trust-right-content p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .trust-right .trust-right-content .trust-btn {
+        padding-bottom: 15px;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        font-size: 16px;
+        line-height: 16px;
+        padding: 16px 30px;
+    }
+
+    .soluiton-slider .swiper {
+        padding: 0px;
+    }
+
+    .soluiton-slider .releted-services-one .service-releted-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 23px;
+        color: #FFFFFF;
+    }
+
+    .soluiton-slider .releted-services-one .service-releted-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+
+    .soluiton-slider .releted-services-one .service-releted-content .btn-solution p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 14px;
+        color: #62E7F3;
+    }
+
+    .frequently .accordian-right-section {
+        margin-left: 0px;
+        max-width: 50%;
+        width: 100%;
+    }
+
+    .container-new {
+        width: unset !important;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 35px;
+        line-height: 50px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .shopify-e-commerce-development .e-commerce-row .e-commerce-card {
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 30px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 25px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .table-btn-one button {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 23px;
+        color: #62E7F3;
+        background: #0D0C22;
+        border: 1px solid #62E7F3;
+        padding: 15px 25px;
+        transition: 0.3s all;
+    }
+
+    .app-development .qute-testi-one img {
+        position: absolute;
+        top: 7%;
+        left: 10%;
+        width: 35px;
+        transform: translate(-50%, -50%);
+    }
+
+    .app-development .swiper-testi .soluiton-slider .testi-box-on {
+        background: #0D0C22;
+        position: relative;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        min-height: 271px;
+    }
+
+    .testi-box-on .testi-content .main-testi-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+
+    .app-development .soluiton-slider .releted-services-one {
+        background: #14132E;
+        border-radius: 10px;
+        border: none;
+        min-height: 366px;
+    }
+
+    /* .app-development {
+        padding-top: 115px;
+    } */
+}
+
+@media (min-width:581px) and (max-width:767px) {
+    .container-new {
+        width: unset !important;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .soluiton-slider .swiper-button-next,
+    .soluiton-slider .swiper-button-prev {
+        position: absolute;
+        top: 50%;
+        padding: 6px;
+        width: 24px;
+        margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+        z-index: 10;
+        cursor: pointer;
+        height: 24px;
+        display: flex;
+        align-items: center;
+        border: 1px solid #62e7f3;
+        border-radius: 50%;
+        justify-content: center;
+        color: #62e7f3;
+    }
+
+    .shopi-banner .sopifi-banner-left {
+        width: 100%;
+    }
+
+    .shopi-banner .sopifi-banner-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 35px;
+        line-height: 45px;
+        margin: 0;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 15px;
+        line-height: 34px;
+        padding: 5px 15px;
+    }
+
+    .number-of .number-row .box-number {
+        margin-bottom: 15px;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 25px;
+    }
+
+    .number-of .number-row {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        /* flex-direction: column-reverse; */
+        align-items: stretch;
+    }
+
+    .sopifi-banner-right .bag-shopi {
+        padding: 50px 0px;
+        padding-bottom: 0;
+        width: 100%;
+    }
+
+    .app-development .bag-shopi .bg-banner-inner img {
+        padding-top: 0px;
+        padding-bottom: 0;
+        max-width: 70%;
+    }
+
+    .frequently .accordian {
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .frequently .accordian-left-section {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .frequently .accordian-right-section {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .frequently .accordian-left-section {
+        margin-right: 20px;
+        max-width: 100%;
+    }
+
+    .frequently .accordian-right-section {
+        margin-right: 20px;
+        max-width: 100%;
+        margin-left: 0px;
+    }
+
+    .portfolio-one .protfolio-row {
+        display: flex;
+        align-items: unset;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .protfolio-row .card-portfoli-one {
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+
+
+    .card-portfoli-one .prot-img img {
+        max-width: 100%;
+    }
+
+    .contect-new-us .form-internal-section {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .contect-new-us .form-internal-section .new-form-for-left {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .contect-new-us .form-internal-section .new-form-for-right {
+        max-width: 100%;
+        flex: 0 0 100%;
+        padding-top: 15px;
+    }
+
+    .contect-new-us .form-internal-textara textarea {
+        width: 95%;
+    }
+
+    .contect-new-us .mt-new-5-new {
+        padding-top: 2rem;
+    }
+
+    .contact-d-flex {
+        display: unset !important;
+    }
+
+    .contact-left-container {
+        margin-left: 60px;
+        width: 50%;
+    }
+
+    .contact-address {
+        width: unset;
+        padding-left: 25px;
+        height: auto;
+        font-size: 16px;
+    }
+
+    .ped-left {
+        padding-left: 25px;
+    }
+
+    .contact-us-form {
+        margin-top: 0;
+        display: unset;
+    }
+
+    .contact-us-description {
+        font-size: 16px;
+        width: unset;
+        padding-left: 25px;
+        text-align: center;
+    }
+
+    .new-res-input {
+        padding: 15px;
+    }
+
+    .form-control-input {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .selct-industry {
+        padding-left: 25px;
+    }
+
+    .res-pe-left-25 {
+        padding-left: 25px;
+    }
+
+    .ml-140 {
+        margin-left: 0;
+    }
+
+    .mt-new-30 {
+        margin-top: 15px;
+    }
+
+    .pd-left-25 {
+        padding-left: 25px;
+    }
+
+    .ml-80 {
+        margin-left: 0px;
+    }
+
+    .new-mt-top {
+        padding-left: 25px;
+        margin-top: 15px;
+    }
+
+    .re-padding-width {
+        padding: 15px;
+    }
+
+    .contact-btn {
+        margin: 0 auto;
+    }
+
+    .di-flex {
+        display: unset;
+    }
+
+    .about-the-trust .row-trust {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 100%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .trust-right .trust-right-content p {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .trust-right .trust-right-content .trust-btn {
+        padding-bottom: 15px;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        font-size: 15px;
+        line-height: 15px;
+        padding: 15px 30px;
+    }
+
+    .soluiton-slider .swiper {
+        padding: 0px;
+    }
+
+    .pricing-table table tr th {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+
+    .t-body-pricing .one-tr td {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+        padding-bottom: 20px;
+    }
+
+    .t-body-pricing .two-tr td {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+
+    .table-btn-one button {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 15px;
+        color: #62E7F3;
+        background: #0D0C22;
+        border: 1px solid #62E7F3;
+        padding: 12px 2px;
+        transition: 0.3s all;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 40px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .shopify-e-commerce-development .e-commerce-row .e-commerce-card {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .app-development .qute-testi-two img {
+        position: absolute;
+        right: 0px;
+        width: 35px;
+        bottom: 23%;
+        transform: translate(-50%, -50%);
+    }
+
+    .portfolio-one .view-more-portfolio button {
+        background: #62E7F3;
+        border: 1px solid #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 20px;
+        text-align: center;
+        color: #000000;
+        padding: 15px 30px;
+    }
+
+    .pad-side {
+        padding: 10px;
+    }
+
+    .testi-box-on .testi-content .main-testi-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+
+    .app-development .swiper-testi .soluiton-slider .testi-box-on {
+        background: #0D0C22;
+        position: relative;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        min-height: 350px;
+    }
+
+    .soluiton-slider .solution-row .one-solution {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .app-development .shopi-banner {
+        height: auto;
+    }
+
+    .app-development {
+        padding-top: 84px;
+    }
+}
+
+@media screen and (max-width:580px) {
+
+    .frequently .accordian-row {
+        padding-bottom: 15px;
+    }
+
+    .container-new {
+        width: unset !important;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .shopi-banner .sopifi-banner-left {
+        width: 100%;
+    }
+
+    .shopi-banner .sopifi-banner-right {
+        width: 100%;
+        padding-top: 15px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+    }
+
+    .sopifi-banner-left .shopi-banner-content h3 {
+        font-size: 25px;
+        line-height: 32px;
+        margin: 0;
+    }
+
+    .sopifi-banner-left .shopi-banner-content p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .app-development .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 13px;
+        line-height: 34px;
+        padding: 5px 15px;
+    }
+
+    .app-development .sopifi-banner-left .shopi-banner-content .banner-btn-row p {
+        font-size: 12px;
+        line-height: 28px;
+    }
+
+    .number-of .number-row .box-number {
+        margin-bottom: 15px;
+    }
+
+    .number-of .number-row {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        align-items: stretch;
+    }
+
+    .sopifi-banner-right .bag-shopi {
+        padding: 50px 0px;
+        padding-bottom: 0;
+        width: 100%;
+    }
+
+    .app-development .bag-shopi .bg-banner-inner img {
+        padding-top: 0px;
+        padding-bottom: 0;
+        max-width: 70%;
+    }
+
+    .app-development .frequently .accordian {
+        margin-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .frequently .accordian-left-section {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .frequently .accordian-right-section {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .app-development .frequently .accordian-left-section {
+        margin-right: 0px;
+        max-width: 100%;
+    }
+
+    .app-development .frequently .accordian-right-section {
+        margin-right: 0px;
+        max-width: 100%;
+        margin-left: 0px;
+    }
+
+    .app-development .head-cursar .container .recent-work-heading {
+        font-size: 12px !important;
+        line-height: 23px !important;
+        margin: 0;
+    }
+
+    .protfolio-row .card-portfoli-one {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .card-portfoli-one .prot-img img {
+        width: 100%;
+    }
+
+    .card-portfoli-one .prot-content h3 {
+        font-size: 22px;
+        line-height: 22px;
+        padding-top: 20px;
+    }
+
+    .soluiton-slider .swiper-button-next,
+    .soluiton-slider .swiper-button-prev {
+        position: absolute;
+        top: 50%;
+        padding: 6px;
+        width: 24px;
+        margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
+        z-index: 10;
+        cursor: pointer;
+        height: 24px;
+        display: flex;
+        align-items: center;
+        border: 1px solid #62e7f3;
+        border-radius: 50%;
+        justify-content: center;
+        color: #fff;
+        background-color: #62e7f3;
+    }
+
+    .card-portfoli-one .prot-content .prot-btn p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 15px;
+    }
+
+    .contect-new-us .form-internal-section {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .contect-new-us .form-internal-section .new-form-for-left {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .contect-new-us .form-internal-section .new-form-for-right {
+        max-width: 100%;
+        flex: 0 0 100%;
+        padding-top: 15px;
+    }
+
+    .contect-new-us .form-internal-textara textarea {
+        width: 95%;
+    }
+
+    .contect-new-us .mt-new-5-new {
+        padding-top: 2rem;
+    }
+
+    .contact-d-flex {
+        display: unset !important;
+    }
+
+    .contact-left-container {
+        margin-left: 60px;
+        width: 50%;
+    }
+
+    .contact-address {
+        width: unset;
+        padding-left: 25px;
+        height: auto;
+        font-size: 16px;
+    }
+
+    .ped-left {
+        padding-left: 25px;
+    }
+
+    .contact-us-form {
+        margin-top: 0;
+        display: unset;
+    }
+
+    .contact-us-description {
+        font-size: 16px;
+        width: unset;
+        padding-left: 25px;
+        text-align: center;
+    }
+
+    .new-res-input {
+        padding: 15px;
+    }
+
+    .form-control-input {
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .selct-industry {
+        padding-left: 25px;
+    }
+
+    .res-pe-left-25 {
+        padding-left: 25px;
+    }
+
+    .ml-140 {
+        margin-left: 0;
+    }
+
+    .mt-new-30 {
+        margin-top: 15px;
+    }
+
+    .pd-left-25 {
+        padding-left: 25px;
+    }
+
+    .ml-80 {
+        margin-left: 0px;
+    }
+
+    .new-mt-top {
+        padding-left: 25px;
+        margin-top: 15px;
+    }
+
+    .re-padding-width {
+        padding: 15px;
+    }
+
+    .contact-btn {
+        margin: 0 auto;
+    }
+
+    .di-flex {
+        display: unset;
+    }
+
+    .about-the-trust .row-trust {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+
+    .about-the-trust .row-trust .trust-left {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-left .trust-img img {
+        max-width: 100%;
+    }
+
+    .about-the-trust .row-trust .trust-right {
+        max-width: 100%;
+    }
+
+    .trust-right .trust-right-content {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .trust-right .trust-right-content h3 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .trust-right .trust-right-content p {
+        font-size: 15px;
+        line-height: 28px;
+    }
+
+    .trust-right .trust-right-content .trust-btn button {
+        font-size: 15px;
+        line-height: 15px;
+        padding: 15px 25px;
+    }
+
+    .trust-btn {
+        padding-bottom: 30px;
+    }
+
+    .soluiton-slider .swiper {
+        padding: 0px;
+    }
+
+    .pricing-table table tr th {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+
+    .t-body-pricing .one-tr td {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+        padding-bottom: 20px;
+    }
+
+    .t-body-pricing .two-tr td {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+
+    .table-btn-one button {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 9px;
+        line-height: 15px;
+        color: #62E7F3;
+        background: #0D0C22;
+        border: 1px solid #62E7F3;
+        padding: 16px 24px;
+        transition: 0.3s all;
+    }
+
+    .shopify-e-commerce-development .e-commerce-development .e-title h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .shopify-e-commerce-development .e-commerce-row .e-commerce-card {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 20px;
+        text-align: center;
+        color: #62E7F3;
+        margin: 0;
+    }
+
+    .e-commerce-row .e-commerce-card .e-commerce-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .app-development .testi-box-on .testi-content .main-testi-content p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+
+    .app-development .frequently .accordian-title {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+
+    .app-development .frequently .accordian-description {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .app-development .portfolio-one {
+        margin-top: 0px;
+        background: transparent;
+        padding-bottom: 50px;
+    }
+
+    .app-development .contect-new-us {
+        margin-top: 50px;
+        background: transparent;
+        padding-bottom: 50px;
+    }
+
+    .portfolio-one .view-more-portfolio button {
+        background: #62E7F3;
+        border: 1px solid #62E7F3;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 15px;
+        text-align: center;
+        color: #000000;
+        padding: 15px 30px;
+    }
+
+    .number-of .number-row {
+        display: flex;
+        flex-direction: inherit;
+    }
+
+    .number-of .number-row .box-number {
+        padding: 20px;
+    }
+
+    .number-of .number-row .box-number .content-box h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 20px;
+        line-height: 20px;
+        color: #FFFFFF;
+        margin: 0;
+    }
+
+    .number-of .number-row .box-number .content-box p {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+
+    .sopifi-banner-left .shopi-banner-content .banner-shopi-btn button {
+        font-size: 15px;
+        line-height: 34px;
+        padding: 5px 15px;
+    }
+
+    .solutions .soluiton-slider {
+        padding-top: 50px;
+    }
+
+    ::-webkit-scrollbar {
+        width: 1px;
+        height: 2px;
+    }
+
+    .number-of {
+        padding-top: 15px;
+    }
+
+    .soluiton-slider .solution-row .one-solution {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .app-development .about-the-trust {
+        max-width: 100%;
+        margin-top: 30px;
+        background: transparent;
+        margin-bottom: 0px;
+    }
+
+    .app-development .frequently {
+        margin-top: 50px;
+        background: #14132E;
+        padding-bottom: 50px;
+    }
+
+    .swiper-testi .soluiton-slider {
+        padding-top: 20px;
+    }
+
+    .contect-new-us .contact-btn {
+        background: #62e7f3;
+        border: 1px solid #62e7f3;
+        height: 50px;
+        /* margin-right: 40px; */
+        width: 160px;
+    }
+
+    .submit {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        text-align: center;
+        color: #000000;
+        margin-right: 0px;
+    }
+
+    .app-development .solutions {
+        padding-bottom: 0px;
+    }
+
+    .app-development .shopi-banner {
+        height: auto;
+    }
+
+    .app-development {
+        padding-top: 84px;
+    }
+}

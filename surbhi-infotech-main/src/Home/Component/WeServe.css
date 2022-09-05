@@ -1,0 +1,574 @@
+.weserve-container {
+    padding-bottom: 100px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+#weserve {
+    text-transform: uppercase;
+    animation: stroke 5s infinite alternate;
+    stroke-width: 2;
+    stroke: white;
+    animation-iteration-count: 1;
+    font-size: 140px;
+}
+
+.container-new,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1440px;
+}
+
+.container-new {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.weserve-container {
+    /* display: flex;
+    justify-content: center;
+    width: 100%; */
+    padding-top: 100px;
+}
+
+@keyframes stroke {
+    0% {
+        fill: rgba(72, 138, 20, 0);
+        opacity: 0;
+        stroke: rgb(255, 255, 255);
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+        stroke-width: 2;
+    }
+
+    70% {
+        opacity: 0.7;
+        fill: rgba(72, 138, 20, 0);
+        stroke: rgb(255, 255, 255);
+    }
+
+    80% {
+        opacity: 0.8;
+        fill: rgba(72, 138, 20, 0);
+        stroke: rgb(255, 255, 255);
+        stroke-width: 3;
+    }
+
+    100% {
+        opacity: 1;
+        fill: rgb(0, 0, 0);
+        stroke: rgb(255, 255, 255);
+        stroke-dashoffset: -25%;
+        stroke-dasharray: 50% 0;
+        stroke-width: 0;
+
+    }
+
+}
+
+
+.svg-hover-img {
+    position: absolute;
+    margin-top: -639px;
+    right: 553px;
+    width: 307px;
+    opacity: 1;
+    transition: 0.5s all;
+}
+
+.svg-automotive-img {
+    position: absolute;
+    margin-top: -639px;
+    left: 553px;
+    width: 307px;
+    opacity: 1;
+    transition: 0.5s all;
+}
+
+circle:hover .svg-hover-img {
+    display: block;
+    opacity: 1;
+}
+
+/* 
+@media screen and (max-width:450px) {
+    .svg-automotive-img {
+        margin-top: -418px !important;
+        left: 216px !important;
+        width: 100px !important;
+    }
+} */
+
+
+
+.svgbox.animate_infinity svg {
+    fill: none;
+    stroke-width: 6;
+    transform: scale(1.5);
+    stroke: url(#paint0_linear_485_40_new);
+    stroke-linecap: round;
+    animation: obj-new 3s linear infinite;
+    stroke-dasharray: 205 80;
+    animation-iteration-count: 1;
+    stroke-dashoffset: 271;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.svgbox svg {
+    fill: none;
+    stroke-width: 6;
+    transform: scale(1.5);
+    stroke: url(#paint0_linear_485_40_new);
+    stroke-linecap: round;
+    animation: oj 3s linear infinite;
+    stroke-dasharray: 205 80;
+    animation-iteration-count: 1;
+    stroke-dashoffset: 271;
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+
+/* .svgbox_new svg {
+    fill: none;
+    stroke-width: 6;
+    transform: scale(2);
+    stroke: url(#paint0_linear_485_40_new);
+    stroke-linecap: round;
+    animation: oj 3s linear infinite;
+    stroke-dasharray: 205 80;
+    animation-iteration-count: 1;
+    stroke-dashoffset: 271;
+} */
+
+@keyframes oj {
+    0% {
+        stroke-dashoffset: 0;
+        stroke: #141328;
+    }
+
+    50% {
+        stroke-dashoffset: 150;
+        stroke: url(#paint0_linear_485_40_new);
+    }
+
+    100% {
+        stroke-dashoffset: 271;
+        stroke: url(#paint0_linear_485_40_new);
+    }
+}
+
+@keyframes obj-new {
+    0% {
+        stroke-dashoffset: 0;
+        stroke: #141328;
+    }
+
+    50% {
+        stroke-dashoffset: 150;
+        stroke: url(#paint0_linear_485_40_new);
+    }
+
+    100% {
+        stroke-dashoffset: 271;
+        stroke: url(#paint0_linear_485_40_new);
+    }
+}
+
+.outer-dots {
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    opacity: 0.1;
+}
+
+.inner-dots {
+    width: 60px;
+    height: 60px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    opacity: 0.2;
+    position: absolute;
+    top: 18px;
+    left: 18px;
+}
+
+.main-dots {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    position: absolute;
+    top: 33px;
+    left: 33px;
+}
+
+.dots {
+    position: relative;
+    top: 0;
+}
+
+.svg-container {
+    height: 900px;
+}
+
+
+@media screen and (max-width: 1600px) {
+    .svg-automotive-img {
+        position: absolute;
+        margin-top: -624px;
+        left: 355px;
+        width: 289px;
+        opacity: 1;
+        transition: 0.5s all;
+    }
+
+    .svg-hover-img {
+        position: absolute;
+        margin-top: -624px;
+        right: 338px;
+        width: 289px;
+        opacity: 1;
+        transition: 0.5s all;
+    }
+}
+
+@media screen and (max-width: 551px) {
+    .weserve-container {
+        padding-top: 50px;
+    }
+}
+
+@media (max-width:767px) {
+    .container-new {
+        padding: 0;
+        max-width: 95%;
+    }
+}
+
+
+.weserve-container {
+    position: relative;
+
+}
+
+.wrap {
+    color: #222;
+    font-size: 24px;
+    position: relative;
+}
+
+.clip-svg {
+    width: 0;
+    height: 0;
+}
+
+.clip-caption {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.clip-each {
+    display: block;
+    position: relative;
+    -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    -webkit-clip-path: url("#hexagon-clip");
+    clip-path: url("#hexagon-clip");
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    margin: 0 auto;
+}
+
+a.clip-each:hover {
+    background: #9E566E;
+    -webkit-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+}
+
+.clip-solid {
+    /* width: 300px;
+    height: 300px; */
+    -webkit-transition: all 2.5s linear;
+    transition: all 2.5s linear;
+    /* margin-right: -52px;
+    margin-left: -52px; */
+}
+
+/* .clip-solid:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    -webkit-clip-path: polygon(100% 3%, 17% 100%, 100% 100%);
+    clip-path: polygon(100% 3%, 17% 100%, 100% 100%);
+    -webkit-clip-path: url("#triangle-clip");
+    clip-path: url("#triangle-clip");
+    background: #9E566E;
+    z-index: 1;
+    width: 100%;
+    height: 155px;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    pointer-events: none;
+} */
+
+.clip-solid:hover:after {
+    height: 0;
+    -webkit-transition: all 0.45s ease-in;
+    transition: all 0.45s ease-in;
+}
+
+.clip-solid:hover .social-share-block {
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+
+.social-share-block {
+    position: absolute;
+    bottom: 20px;
+    right: 75px;
+    color: #fff;
+    font-size: 70%;
+    z-index: 2;
+}
+
+.clip-block .clip-each {
+    position: relative;
+}
+
+.clip-block {
+    display: inline-block;
+    width: 223px;
+    height: 223px;
+    margin: 20px 0;
+    /* filter: url(#round); */
+    padding: 0 10px;
+    transition: all 0.5s;
+    /* clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); */
+    /* transform: rotate(90deg); */
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* .clip-block::before {
+    content: "";
+    display: block;
+    padding-top: 86.6%; 
+    background: url(https://picsum.photos/id/1061/300/300) center/cover;
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+    transition: all 0.5s;
+} */
+
+/* 
+.clip-block:hover::before {
+    content: "";
+    background: url("/public/images/aaron.png") center/cover;
+} */
+
+.clip-content h3 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.clip-content-one h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.clip-content-two h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%, -50%);
+}
+
+
+.social-each {
+    font-size: 80%;
+}
+
+.clip-gradient {
+    background: #222;
+    width: 300px;
+    height: 300px;
+}
+
+.clip-gradient .clip-caption {
+    color: #fff;
+}
+
+/**/
+
+.d-flex {
+    display: flex;
+}
+
+.mt-minus {
+    margin-top: -60px;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+/**/
+.clip-border {
+    background: -webkit-linear-gradient(300deg, #aebcbf 0%, #6e7774 50%, #333 61%, #333 100%);
+    background: linear-gradient(150deg, #aebcbf 0%, #6e7774 50%, #333 61%, #333 100%);
+    width: 300px;
+    height: 300px;
+    margin-top: 7px;
+    color: #222;
+}
+
+.clip-border::after {
+    content: "";
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+    bottom: 2%;
+    margin: 0 auto;
+    background: url("http://karenmenezes.com/shapes-polygon/bg-cubes.png");
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    -webkit-clip-path: url("#hexagon-clip");
+    clip-path: url("#hexagon-clip");
+    z-index: -1;
+}
+
+.clip-tagline {
+    display: block;
+    color: #758C9B;
+    text-decoration: none;
+    text-align: center;
+}
+
+@media only screen and (max-width:1440px) {
+    .d-flex {
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (min-width:800px) {
+
+    .weserve-container {
+        position: relative;
+        padding-top: 20px;
+    }
+
+    .clip-block {
+        position: relative;
+    }
+
+    .clip-border {
+        margin-top: 20px;
+    }
+
+
+}
+
+@media only screen and (max-width: 1050px) {
+    .mt-minus {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .clip-block {
+        display: inline-block;
+        width: 180px;
+        height: 180px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .clip-solid {
+        margin-left: unset;
+        margin-right: unset;
+        margin: 0 auto;
+    }
+
+
+}
+
+@media screen and (max-width:800px) {
+    .clip-content h3 {
+        position: unset;
+        transform: translate(0, 0);
+    }
+}
+
+
+@media only screen and (max-width: 450px) {
+    .clip-block {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .clip-block {
+        display: inline-block;
+        width: 120px;
+        height: 120px;
+    }
+}

@@ -1,0 +1,1707 @@
+.modal-shopify-popoup .modal {
+    position: fixed;
+    z-index: 999;
+    /* padding-top: 100px; */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background: #0D0C22;
+}
+
+.modal-shopify-popoup-one .modal {
+    position: fixed;
+    z-index: 999;
+    /* padding-top: 100px; */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background: #0D0C22;
+}
+
+.contact-popup img {
+    max-width: 100%;
+}
+
+.modal-shopify-popoup .modal-content-shopify {
+    margin: auto;
+    padding-top: 0px;
+    max-width: 1100px;
+    background: #0D0C22;
+    border: 10px solid #14132E;
+    height: auto;
+    padding: 0px;
+    display: flex;
+    /* overflow-y: scroll; */
+}
+
+.modal-shopify-popoup-one .modal-content-shopify {
+    margin: auto;
+    padding-top: 0px;
+    width: 35%;
+    background: #0D0C22;
+    border: 10px solid #14132E;
+    height: auto;
+    padding: 40px;
+    /* overflow-y: scroll; */
+}
+
+.img-new-class img {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    max-height: 100%;
+}
+
+.new-popup-form-one {
+    padding-top: 30px;
+}
+
+.modal-content-shopify .new-modal-hedding h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: relative;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.new-popup-form-one .input-line .input-in input {
+    background: transparent;
+    border: 1px solid #3D3D4E;
+    /* backdrop-filter: blur(25px); */
+    width: 89%;
+    height: 40px;
+    padding: 0px 40px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    position: relative;
+    color: #ffffff6b;
+}
+
+.new-popup-form-one .input-line .input-in input:focus {
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+.popu-one img {
+    position: absolute;
+    z-index: 9;
+    top: 10px;
+    left: 10px;
+}
+
+.new-popup-form-one .input-line .input-in textarea {
+    background: transparent;
+    border: 1px solid #3D3D4E;
+    -webkit-backdrop-filter: blur(25px);
+    backdrop-filter: blur(25px);
+    width: 89%;
+    height: 145px;
+    padding: 0px 40px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #ffffff6b;
+    resize: none;
+}
+
+.scroll-new::-webkit-scrollbar {
+    display: none;
+}
+
+.new-popup-form-one .input-line .input-in textarea:focus {
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+
+.new-popup-form-one .input-line {
+    padding-bottom: 30px;
+}
+
+.popup-submit-btn {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.popup-submit-btn button {
+    background: #62E7F3;
+    border: 1px solid #62E7F3;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    padding: 15px 30px;
+}
+
+.popup-submit-btn button img {
+    padding-left: 10px;
+}
+
+/* .new-width {
+    width: 100%;
+} */
+
+.modal-shopify-popoup .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    order: 2;
+}
+
+.modal-shopify-popoup-one .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    order: 2;
+}
+
+/* .new-alart {
+    margin-left: 0 !important;
+} */
+
+
+.contact-model-heading {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 57px;
+    color: #FFFFFF;
+}
+
+.contact-model-desc {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 9px;
+}
+
+.custom-option {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: white;
+    background-color: #100e20;
+}
+
+.modal-shopify-popoup .contact-us-form-card {
+    background: rgba(13, 12, 34, 0.6);
+    border: 10px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(34px);
+    padding: 42px 58px;
+    margin-top: 21px;
+}
+
+.modal-shopify-popoup .form-control-contact {
+    background: rgba(13, 12, 34, 0.2);
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+    width: 97%;
+    height: 60px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #62E7F3;
+}
+
+
+.modal-shopify-popoup .new-select {
+    width: 100%;
+}
+
+.modal-shopify-popoup .form-row {
+    display: flex;
+}
+
+.modal-shopify-popoup .input-phone {
+    width: 290px;
+}
+
+.modal-shopify-popoup .form-select {
+    margin-left: 20px;
+    height: 64px;
+}
+
+.modal-shopify-popoup .form-textarea {
+    width: 97%;
+    height: 180px;
+    left: 304px;
+    top: 593px;
+    background: #0D0C22;
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+    padding-left: 15px;
+    padding-top: 15px;
+    resize: none;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.modal-shopify-popoup .flex-end {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 45px;
+
+}
+
+.mr-0 {
+    margin-right: 0px;
+}
+
+.flex {
+    display: flex;
+}
+
+.new-popup-form-one .input-line .input-in {
+    position: relative;
+}
+
+.modal-shopify-popoup .close {
+    /* background: #0D0C22;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px; */
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    width: 55.8px;
+    height: 55.8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+    cursor: pointer;
+}
+
+.modal-shopify-popoup-one .close {
+    /* background: #0D0C22;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px; */
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    width: 55.8px;
+    height: 55.8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+    cursor: pointer;
+}
+
+.modal-shopify-popoup input::-webkit-outer-spin-button,
+.modal-shopify-popoup input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.w-50 {
+    width: 50%;
+
+}
+
+.modal-shopify-popoup .modal-content-shopify {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 99999999;
+    transform: translate(-50%, -50%);
+}
+
+.modal-shopify-popoup-one .modal-content-shopify {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 99999999;
+    transform: translate(-50%, -50%);
+}
+
+.modal-shopify-popoup .modal-container-shopify {
+    width: 95%;
+}
+
+.modal-shopify-popoup-one .modal-container-shopify {
+    width: 95%;
+}
+
+.modal-shopify-popoup-one .new-modal-hedding {
+    padding-top: 50px;
+}
+
+.modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 71px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.line-in-inline {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.only-line {
+    background: #fff;
+    height: 2px;
+    position: relative;
+    width: 60%;
+
+}
+
+.content-thankyou {
+    padding-top: 50px;
+}
+
+.content-thankyou h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    position: relative;
+}
+
+.new-conrtent-iner {
+    padding-top: 50px;
+}
+
+.new-conrtent-iner .email-phone-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.new-conrtent-iner .email-phone-row .phone-left-row {
+    padding-left: 20px;
+}
+
+.new-conrtent-iner .email-phone-row .email-left-row .back-back-thack {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAA8CAYAAADCFbfpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE7SURBVHgB7da7UQNBAETBE7aUhExIDAzI3xM1tgp0n90bp9ucAF7N5Xa9PxaAorcFoEyIgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIqBMioE6IgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIqBMioE6IgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIONXHz9fTJkTAaRKh9+/Pp12IgFP8FaEQImC6/yIUQgRM9SpCIUTANGsiFEIETLE2QiFEwHBbIhRCBAy1NUIhRMAweyIUQgQMsTdCIUTAYUciFEIEHHI0QiFEwG4jIhRCBOwyKkIhRMBmIyMUQgRsMjpCIUTAajMiFEIErDIrQiFEwEszIxSX2/X+WACKPCKgToiAOiEC6n4Bwv0qAGNZK5UAAAAASUVORK5CYII=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+}
+
+.new-conrtent-iner .email-phone-row .phone-left-row .back-back-thack {
+    /* background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAA8CAYAAADCFbfpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE7SURBVHgB7da7UQNBAETBE7aUhExIDAzI3xM1tgp0n90bp9ucAF7N5Xa9PxaAorcFoEyIgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIqBMioE6IgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIqBMioE6IgDohAuqECKgTIqBOiIA6IQLqhAioEyKgToiAOiEC6oQIONXHz9fTJkTAaRKh9+/Pp12IgFP8FaEQImC6/yIUQgRM9SpCIUTANGsiFEIETLE2QiFEwHBbIhRCBAy1NUIhRMAweyIUQgQMsTdCIUTAYUciFEIEHHI0QiFEwG4jIhRCBOwyKkIhRMBmIyMUQgRsMjpCIUTAajMiFEIErDIrQiFEwEszIxSX2/X+WACKPCKgToiAOiEC6n4Bwv0qAGNZK5UAAAAASUVORK5CYII=); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+    padding-left: 43px;
+    padding-right: 70px;
+    position: relative;
+}
+
+.new-conrtent-iner .email-phone-row .email-left-row h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+
+.new-conrtent-iner .email-phone-row .email-left-row h3 img {
+    padding-right: 10px;
+}
+
+.new-conrtent-iner .email-phone-row .phone-left-row h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+
+.new-conrtent-iner .email-phone-row .phone-left-row h3 img {
+    padding-right: 10px;
+}
+
+.mar-top-2002 {
+    margin-top: 150px;
+}
+
+.contact-us-close-icon {
+    margin-top: -10%;
+}
+
+/* .modal-shopify-popoup :not(#unblurred),
+.modal-shopify-popoup :not(#unblurred) * {
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+} */
+.modal-shopify-popoup {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    z-index: 99999;
+    backdrop-filter: blur(3px);
+}
+
+.modal-shopify-popoup-one {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    z-index: 99999;
+    backdrop-filter: blur(3px);
+}
+
+.shopify-right-section {
+    padding-left: 28px;
+    padding-top: 50px;
+    padding-right: 72px;
+    padding-bottom: 0px;
+    background-image: url('/public/images/shopify-popup-bg.png');
+    background-position: center;
+    width: 60%;
+}
+
+.side-img {
+    max-width: 100%;
+    height: 100%;
+}
+
+.popup-left-img {
+    width: 40%;
+}
+
+@media (min-width:1601px) and (max-width:1800px) {
+    .modal-shopify-popoup-one .modal-content-shopify {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        z-index: 99999999;
+        transform: translate(-50%, -50%);
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 45%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+
+    .modal-shopify-popoup-one .new-modal-hedding {
+        padding-top: 20px;
+    }
+
+    .line-in-inline {
+        display: flex;
+        justify-content: center;
+        padding-top: 25px;
+    }
+
+    .content-thankyou h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 25px;
+        text-align: center;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        position: relative;
+    }
+
+    .content-thankyou {
+        padding-top: 25px;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-conrtent-iner .email-phone-row .email-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        height: 120px;
+    }
+
+    .side-img {
+        max-width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width:1400px) and (max-width:1500px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1367px) and (max-width:1399px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1300px) and (max-width:1366px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1250px) and (max-width:1299px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1200px) and (max-width:1249px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1150px) and (max-width:1199px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1051px) and (max-width:1099px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1000px) and (max-width:1050px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:981px) and (max-width:999px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:768px) and (max-width:850px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 48% !important;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1100px) and (max-width:1149px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 66% !important;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+}
+
+@media (min-width:1367px) and (max-width:1600px) {
+    .shopify-right-section {
+        padding-left: 28px;
+        padding-top: 32px;
+        padding-right: 72px;
+        padding-bottom: 0px;
+        background-image: url(http://localhost:3000/static/media/shopify-popup-bg.f389990293f4b96b25e6.png);
+        background-position: center;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 83%;
+        height: 90px !important;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 49%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+
+    .side-img {
+        max-width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width:1121px) and (max-width:1366px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 60%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 83%;
+        height: 75px !important;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .shopify-right-section {
+        padding-top: 30px;
+    }
+
+    .side-img {
+        max-width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width:981px) and (max-width:1120px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        max-width: 1100px;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 83%;
+        height: 90px !important;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .shopify-right-section {
+        padding-top: 25px;
+    }
+}
+
+@media (min-width:768px) and (max-width:800px) {
+    .shopify-right-section {
+        width: 74% !important;
+    }
+}
+
+@media (min-width:768px) and (max-width:980px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 48%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: auto;
+        padding: 0px;
+        display: flex;
+        /* overflow-y: scroll; */
+    }
+
+    .side-img {
+        max-width: 100%;
+        height: auto;
+        display: none;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 82% !important;
+        height: 90px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .new-popup-form-one .input-line .input-in input {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 82% !important;
+        height: 40px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        position: relative;
+        color: #ffffff6b;
+    }
+
+    .shopify-right-section {
+        width: 80%;
+    }
+}
+
+@media (min-width:1093px) and (max-width:1600px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        padding-left: 0px;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        padding-left: 0px;
+    }
+}
+
+@media (max-width:1600px) {
+
+    .modal-content-shopify {
+        /* margin-left: 50px;
+        margin-right: 50px; */
+    }
+
+    .modal-container-shopify {
+        width: 95%;
+    }
+
+    .modal {
+        /* padding-top: 50px; */
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        padding-top: 80px;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        padding-top: 80px;
+    }
+
+
+
+    .modal-shopify-popoup .form-row {
+        display: block;
+    }
+
+
+
+    .modal-shopify-popoup .input-phone {
+        width: 97%;
+    }
+
+    .modal-shopify-popoup .form-select {
+        margin-left: 0px;
+        width: 102%;
+    }
+
+    .modal-shopify-popoup .new-select {
+        width: 102%;
+    }
+
+    .modal-shopify-popoup .contact-btn {
+        /* width: 190px; */
+        height: 59px;
+    }
+
+    .modal-shopify-popoup-one .contact-btn {
+        /* width: 190px; */
+        height: 59px;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        padding-top: 0px;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        padding-top: 0px;
+    }
+
+    .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .new-popup-form-one .input-line .input-in input {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 83%;
+        height: 40px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        position: relative;
+        color: #ffffff6b;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 83%;
+        height: 180px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        z-index: 99999999;
+        transform: translate(-50%, -50%);
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 38px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    .modal-shopify-popoup-one .new-modal-hedding {
+        padding-top: 10px;
+    }
+
+    .line-in-inline {
+        display: flex;
+        justify-content: center;
+        padding-top: 25px;
+    }
+
+    .content-thankyou h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        position: relative;
+    }
+
+    .content-thankyou {
+        padding-top: 10px;
+    }
+
+    .new-conrtent-iner {
+        padding-top: 20px;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+}
+
+@media (max-width:1092px) {
+
+
+
+
+    .w-50 {
+        width: 90%;
+    }
+
+    .modal-shopify-popoup .close {
+        top: 3px;
+        right: 2px;
+        z-index: 99999;
+        position: absolute;
+    }
+
+    .modal-shopify-popoup-one .close {
+        top: 3px;
+        right: 2px;
+        z-index: 99999;
+        position: absolute;
+    }
+
+
+    .modal-content-shopify {
+        margin-left: 0px;
+        padding-left: 25px;
+    }
+
+    .new-popup-form-one .input-line .input-in input {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 88%;
+        height: 40px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        position: relative;
+        color: #ffffff6b;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 88%;
+        height: 90px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        padding-top: 0px;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        padding-top: 22px;
+    }
+
+    .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 50px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .modal-shopify-popoup-one .new-modal-hedding {
+        padding-top: 10px;
+    }
+
+    .line-in-inline {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+
+    .content-thankyou h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        position: relative;
+    }
+
+    .content-thankyou {
+        padding-top: 0px;
+    }
+
+    .new-conrtent-iner {
+        padding-top: 0px;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row {
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        z-index: 99999999;
+        transform: translate(-50%, -50%);
+    }
+
+    .new-conrtent-iner .email-phone-row .email-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+}
+
+
+
+@media (max-width:767px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        padding-top: 30px;
+        padding-left: 0;
+    }
+
+    .side-img {
+        display: none;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        padding-top: 30px;
+        padding-left: 0;
+    }
+
+    .contact-popup {
+        display: none;
+    }
+
+    .modal-shopify-popoup .close {
+        top: 0px;
+        right: 0px;
+        z-index: 99999;
+        position: absolute;
+    }
+
+    .modal-shopify-popoup-one .close {
+        top: 0px;
+        right: 0px;
+        z-index: 99999;
+        position: absolute;
+    }
+
+    .contact-model-heading {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 28px;
+        padding-left: 15px;
+        line-height: 57px;
+        color: #FFFFFF;
+    }
+
+    .contact-model-desc {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        padding-left: 15px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-top: 9px;
+    }
+
+    .contact-us-form-card {
+        background: rgba(13, 12, 34, 0.6);
+        border: 10px solid rgba(255, 255, 255, 0.1);
+        -webkit-backdrop-filter: blur(34px);
+        backdrop-filter: blur(34px);
+        padding: 45px 20px;
+        margin-top: 21px;
+    }
+
+    .new-popup-form-one {
+        padding-top: 30px;
+        padding: 20px;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: auto;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 83%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        height: 40vh;
+        padding: 20px;
+
+
+    }
+
+    .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .new-popup-form-one .input-line {
+        padding-bottom: 15px;
+    }
+
+    .new-popup-form-one .input-line .input-in input {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 72%;
+        height: 35px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        position: relative;
+        color: #ffffff6b;
+    }
+
+    .new-popup-form-one .input-line .input-in textarea {
+        /* background: rgba(255, 255, 255, 0.1); */
+        border: 1px solid #3D3D4E;
+        -webkit-backdrop-filter: blur(25px);
+        backdrop-filter: blur(25px);
+        width: 72%;
+        height: 90px;
+        padding: 0px 40px;
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 32px;
+        color: #ffffff6b;
+    }
+
+    .modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .modal-shopify-popoup-one .new-modal-hedding {
+        padding-top: 10px;
+    }
+
+    .line-in-inline {
+        display: flex;
+        justify-content: center;
+        padding-top: 12px;
+    }
+
+    .content-thankyou {
+        padding-top: 0px;
+    }
+
+    .content-thankyou h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 27px;
+        text-align: center;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        position: relative;
+    }
+
+    .new-conrtent-iner {
+        padding-top: 10px;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-conrtent-iner .email-phone-row .email-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+}
+
+@media (min-width:581px) and (max-width:767px) {
+    .modal-shopify-popoup-one .modal-content-shopify .new-modal-hedding h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 46px;
+        text-align: center;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        position: relative;
+        margin: 0;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row {
+        padding-left: 20px;
+        padding-top: 0px;
+    }
+
+    .new-conrtent-iner .email-phone-row .email-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .new-conrtent-iner .email-phone-row .phone-left-row h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 23px;
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+    }
+
+    .modal-shopify-popoup-one .new-modal-hedding {
+        padding-top: 40px;
+    }
+
+    .line-in-inline {
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+
+    .content-thankyou {
+        padding-top: 30px;
+    }
+
+    .new-conrtent-iner {
+        padding-top: 40px;
+    }
+
+}
+
+@media (min-width:651px) and (max-width:767px) {
+    .new-popup-form-one .input-line .input-in input {
+        width: 85% !important;
+    }
+
+    .new-popup-form-one .input-line .input-in input,
+    .new-popup-form-one .input-line .input-in textarea {
+        width: 85% !important;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 55%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+    }
+
+    .shopify-right-section {
+        width: 100%;
+    }
+}
+
+@media (min-width:551px) and (max-width:650px) {
+    .new-popup-form-one .input-line .input-in input {
+        width: 81% !important;
+    }
+
+    .new-popup-form-one .input-line .input-in input,
+    .new-popup-form-one .input-line .input-in textarea {
+        width: 81% !important;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 64%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+    }
+
+    .shopify-right-section {
+        width: 100%;
+    }
+}
+
+@media (min-width:451px) and (max-width:550px) {
+    .new-popup-form-one .input-line .input-in input {
+        width: 77% !important;
+    }
+
+    .new-popup-form-one .input-line .input-in input,
+    .new-popup-form-one .input-line .input-in textarea {
+        width: 77% !important;
+    }
+
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 77%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+    }
+
+    .shopify-right-section {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 50px;
+        padding-right: 6px;
+    }
+}
+
+@media (min-width:321px) and (max-width:450px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 95%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+    }
+
+    .shopify-right-section {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 50px;
+        padding-right: 6px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .modal-shopify-popoup .modal-content-shopify {
+        margin: auto;
+        padding-top: 0px;
+        width: 94%;
+        background: #0D0C22;
+        border: 10px solid #14132E;
+        /* height: 60vh; */
+        padding: 0px;
+        /* overflow-y: scroll; */
+    }
+
+    .shopify-right-section {
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 50px;
+        padding-right: 6px;
+    }
+
+}

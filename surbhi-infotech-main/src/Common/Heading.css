@@ -1,0 +1,116 @@
+.container {
+    width: 100%;
+    background-color: #0D0C22;
+    /* height: 232px; */
+    position: relative;
+    z-index: 1;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-text {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 202px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    opacity: 0.03;
+    text-align: center;
+}
+
+.bg-text-two {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 100px;
+    line-height: 202px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    opacity: 0.03;
+    text-align: center;
+}
+
+.recent-work-heading {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 33px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: -117px;
+    text-align: center;
+}
+
+.container:second-child {
+    background: red;
+}
+
+@media (max-width:1366px) {
+    .bg-text {
+        font-size: 100px;
+    }
+
+    .bg-text-two {
+        font-size: 100px;
+    }
+}
+
+
+
+@media (min-width:801px) and (max-width:1365px) {
+    .bg-text {
+        font-size: 80px;
+    }
+}
+
+
+@media (max-width:800px) {
+    .container {
+        padding-bottom: 0px;
+    }
+}
+
+
+@media (min-width:551px) and (max-width:650px) {
+    .bg-text {
+        font-size: 60px;
+    }
+}
+
+@media (min-width:451px) and (max-width:550px) {
+    .bg-text {
+        font-size: 26px;
+    }
+
+    .recent-work-heading {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    /* .recent-work-heading {
+        margin-top: -40px;
+    } */
+
+    /* .container {
+        height: 115px;
+    } */
+
+    .bg-text {
+        font-size: 24px;
+    }
+
+    .recent-work-heading {
+        font-size: 16px;
+    }
+
+    .recent-work-heading {
+        letter-spacing: 5px;
+    }
+}

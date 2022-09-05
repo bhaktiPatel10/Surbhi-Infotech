@@ -1,0 +1,963 @@
+[
+    {
+        "title": "Web Development Services",
+        "section1_heading": "Create compelling web experiences for your target prospects",
+        "section1_desc1": "Surbhi Infotech is a leading web development company and with our impeccable web development services, we help businesses to ensure creating a flexible, scalable and customer-focused channel, and thereby reach out to a wider audience.",
+        "section1_img": "images/service-details/web_1.png",
+        "section1_desc2": "Our highly experienced and dedicated web development team has enough expertise to embody even the most complex concepts into perfect web solutions.",
+        "section2_heading": "Our Web Development Services",
+        "section2_desc": "Leverage the latest data techniques to accelerate digital initiatives and maximize business outcomes",
+        "section2_slider": [
+            {
+                "title": "Code Beyond",
+                "front_img": "/images/Code Beyond21.png",
+                "desc": "A client wants to design a blog website. In this website he used multiple option to find any blog. Every blog hase Author and diffrent tab and category view. Every user has the ability to establish a blog, and the platform provides a dashboard.",
+                "link": "/case-study-details-angularblog"
+            },
+            {
+                "title": "Murray’s Water Boring",
+                "front_img": "/images/Murray’s Water Boring22.png",
+                "desc": "The social website Murrays Water Boring is a company that provides water bore services to the Australian government.",
+                "link": "/case-study-details-murrays"
+            },
+            {
+                "title": "Inglis Fire & Safety",
+                "front_img": "/images/Inglis Fire & Safety23.png",
+                "desc": "The website Inglisfire is for the Australian government's fire safety services. This sort of business website is designed to help individuals in Austria locate fire door safety services. ",
+                "link": "/case-study-details-inglishfiresafety"
+            }
+        ],
+        "section3_heading": "We use the full potential of cutting-edge technologies, like ML and AI, while offering consulting and development services to clients. Our smart solutions and services allow businesses to gain an edge over their competitors in their respective industries.",
+        "section3_img": "images/service-details/web_2.png",
+        "section4_img": "images/service-details/web_3.png",
+        "section4_heading": "Let’s Transform Your Vision Into Value",
+        "section4_desc": "Have an idea? Not sure of how to start? Talk to us. Whether you need to build a project from scratch or redesign the existing, we can help you anywhere in the project.",
+        "section5_heading": "Our Web Development Services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/web_shopify.png",
+                "img2": "images/service-details/web_shopify2.png",
+                "name": "Shopify",
+                "desc": "As a leading Shopify web development company, we put emphasis on building e-commerce stores with functionality tailored to the industry you operate in."
+            },
+            {
+                "img": "images/service-details/web_react.png",
+                "img2": "images/service-details/web_react2.png",
+                "name": "React",
+                "desc": "At Surbhi Infotech, a leading React Js Development Company, we use the power of this technology to create functional, robust web and mobile applications worldwide for our clients."
+            },
+            {
+                "img": "images/service-details/web_angular2.png",
+                "img2": "images/service-details/web_angular.png",
+                "name": "Angular",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            },
+            {
+                "img": "images/service-details/web_vue.png",
+                "img2": "images/service-details/web_vue2.png",
+                "name": "Vue Js",
+                "desc": "Our dedicated team of Vue.js developers know exactly what is needed to create business-friendly and high-performing web solutions."
+            },
+            {
+                "img": "images/service-details/web_wordpress.png",
+                "img2": "images/service-details/web_wordpress2.png",
+                "name": "Wordpress",
+                "desc": "Our WordPress developers hold a plethora of basic knowledge of WordPress that represents a perfect combination of technicality, skill, and talent, which helped us to accommodate all the client expectations."
+            }
+        ],
+        "section6_heading": "Free Instant UI-UX Designing Demo",
+        "section6_desc": "We're always looking for outstanding clients who are enthusiastic about their products and customers.",
+        "section7_heading": "The craft of blending superlative design with flawless execution",
+        "section7_desc": "We’re proficient in all popular web technologies and are fully capable of developing tailored solutions when needed.",
+        "section7_points": [
+            "We create digitally adaptable products, not just features.",
+            "Clean code implementation with powerful testing",
+            "A fair market pricing with a quicker turnaround",
+            "Delivering within deadlines and budgets",
+            "A greater level of commitments & deliveries in less time with higher quality",
+            "Web solutions that are high quality, technically advanced & high performance.",
+            "Expertise over continuously changing technologies",
+            "We do not over promise, we over-deliver our promise."
+        ],
+        "section8_heading": "Surbhi's Website Development Agile Methodology",
+        "section8_desc": "We focus on client-centric solutions built using technologies and frameworks that we’ve researched and tested and determined to have long-term viability in the market. At Surbhi Infotech, we always strive to create visually appealing websites according to the business needs, along with a custom web design that is easy to use and converts visitors into customers.",
+        "section9_img": "images/service-details/web_4.png",
+        "section10_heading": "Our Web Development Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/web_analysis.png",
+                "img2": "images/service-details/web_analysis2.png",
+                "name": "Strategic planning and analysis",
+                "desc": "We understand all the features and requirements to bring the website to life. We also provide a quote of the total costs to build the website."
+            },
+            {
+                "img": "images/service-details/web_design.png",
+                "img2": "images/service-details/web_design2.png",
+                "name": "Intutive UI design",
+                "desc": "We craft the designs based on the project’s requirements. The result is a beautiful user interface that encompasses an amazing user experience."
+            },
+            {
+                "img": "images/service-details/web_development2.png",
+                "img2": "images/service-details/web_development.png",
+                "name": "Development",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            },
+            {
+                "img": "images/service-details/web_perfomance.png",
+                "img2": "images/service-details/web_perfomance2.png",
+                "name": "Performance scalability",
+                "desc": "Testing and Quality assurance are the two most prominent aspects of our web development service. We check each and every element of the website before delivering."
+            },
+            {
+                "img": "images/service-details/web_golive.png",
+                "img2": "images/service-details/web_golive2.png",
+                "name": "Go-live",
+                "desc": "After testing, the website goes live and handed over to the client. Our team ensures technical viability & deployment of the website."
+            }
+        ],
+        "section11_heading": "Surbhi’s Agile Web Methodology",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "What is the difference between a “static” and “dynamic” website?",
+                        "desc": "A static website is one that is written in html only. each page is a separate document and there is no database that it draws on, whereas a dynamic website is written using more complex code and can do a lot more."
+                    },
+                    {
+                        "title": "How much does a website cost?",
+                        "desc": "This is a common question. But it’s not one we can answer without information about the particulars of what the website needs to be and do such as how large will it be, does it require complex features and functions, and will it be a fairly simple web brochure or an elaborate online store, etc."
+                    },
+                    {
+                        "title": "How do you know that my new website is working as required?",
+                        "desc": "We perform a number of pre-launch tests and other processes to make sure that your website is performing as promised and meets industry standards. We test to make sure that your website renders properly in all the major browsers, works properly with all plugins and third party integrations, and loads within acceptable limits."
+                    },
+                    {
+                        "title": "What if all I need is a makeover of my current website?",
+                        "desc": "We can certainly do that too. We are committed to addressing the specific needs of each client. Whether it is a brand new website or just an upgrade of one that has become a little outdated."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "You do. We provide you with complete handover instructions to manage and edit your website, we will simply manage your domain name renewal (if applicable) and hosting for the life of the website."
+                    },
+                    {
+                        "title": "​I already have a domain name, can I use this for my website?",
+                        "desc": "Yes, no problem at all. We will assist you in ensuring your domain settings point to your new website as part of our web design service."
+                    },
+                    {
+                        "title": "How long does it take to design a website for my business?",
+                        "desc": "It varies from website to website based on the requirement. If you have the content for your site written before the design process begins, it will help in completing the project quickly. "
+                    },
+                    {
+                        "title": "What if i change my mind and want to add or change design or features of my website?",
+                        "desc": "Websites are very flexible. Your website can be changed any time you want. From the text content to the overall design, or adding a new feature to your existing website any time you choose, you can change anytime you want. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mobile App Development Services",
+        "section1_heading": "Custom Mobile App Development Services",
+        "section1_desc1": "We are a leading mobile app development company known for developing custom mobile apps for iOS and Android platforms. Our mobile app developers have the expertise to deliver strategically designed and creatively crafted mobile applications to take your business to the next level.",
+        "section1_desc2": "We empower your business through full-cycle mobile app development services, tailored to your unique organizational requirements. Our ability to meet your needs stem from our team of experts, who have years of experience in global app solution services and product engineering industries.",
+        "section1_img": "images/service-details/mobile_1.png",
+        "section2_heading": "Our MObile App Development Services",
+        "section2_desc": "Leverage the latest data techniques to accelerate digital initiatives and maximize business outcomes",
+        "section2_slider": [
+            {
+                "title": "Skoovie",
+                "front_img": "/images/Skooviep16.png",
+                "desc": "Skoovi is a online marketplace for people working in a Entertainment industry especially in bollywood, inshort it is a combination of a job portal and a Social media where a artist can show their skills a brand or production house can see their skills and contact them for the work that they are offering and get paid within the platfomr with a basic minimum charges.",
+                "link": "/case-study-details-skooviapp"
+            },
+            {
+                "title": "Hang Time",
+                "front_img": "/images/HangTimep17.png",
+                "desc": "Hangtime is an event management beta software. A fantastic vision for managing Calendar activities. This app also served as a reminder for the occasion. We has to include numerous times and manage that occurrence.",
+                "link": "/case-study-details-hangtime"
+            },
+            {
+                "title": "Netspace",
+                "front_img": "/images/Netspacep15.png",
+                "desc": "Netspace is the finest platform for buying and selling real estate. We may add several properties for buy and sale in this platform, similar to housing.com. Netspace is a housing.com competitor website.",
+                "link": "/case-study-details-netspace-application"
+            }
+        ],
+        "section3_heading": "We use the full potential of cutting-edge technologies, like ML and AI, while offering consulting and development services to clients. Our smart solutions and services allow businesses to gain an edge over their competitors in their respective industries.",
+        "section3_img": "images/service-details/mobile_2.png",
+        "section4_img": "images/service-details/mobile_3.png",
+        "section4_heading": "Let's take your brand to the next level",
+        "section4_desc": "Have an idea? Not sure of how to start? Talk to us. Whether you need to build a project from scratch or redesign the existing, we can help you anywhere in the project.",
+        "section5_heading": "Our Application Development Services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/mobile_flutter.png",
+                "img2": "images/service-details/mobile_flutter2.png",
+                "name": "Flutter",
+                "desc": "We offer scalable, quicker-to-develop apps and a great native experience to the users globally with our best-in-class flutter app development services."
+            },
+            {
+                "img": "images/service-details/mobile_native.png",
+                "img2": "images/service-details/mobile_native2.png",
+                "name": "React Native",
+                "desc": "We offer top-notch mobile app development services using React Native Technology that adhere to all-important industry standards and business requirements."
+            },
+            {
+                "img": "images/service-details/mobile_android2.png",
+                "img2": "images/service-details/mobile_android.png",
+                "name": "Android",
+                "desc": "We have proven expertise in Android apps development that ensures value-added services to your mobile operations."
+            },
+            {
+                "img": "images/service-details/mobile_ios.png",
+                "img2": "images/service-details/mobile_ios2.png",
+                "name": "IOS",
+                "desc": "We develop next-gen iOS apps that are quality tested for perfection with future-forward iOS application development services."
+            },
+            {
+                "img": "images/service-details/mobile_iconic.png",
+                "img2": "images/service-details/mobile_iconic2.png",
+                "name": "Ionic",
+                "desc": "We accelerate transformation with Ionic app development services to deliver lasting value with a single shared code base."
+            }
+        ],
+        "section6_heading": "Free Application Development Demo",
+        "section6_desc": "We're always looking for outstanding clients who are enthusiastic about their products and customers.",
+        "section7_heading": "Our only aim is to create the best for you",
+        "section7_points": [
+            "We work smart, fast and always deliver our projects on time",
+            "The newest and most successful technology trends",
+            "Collaborative approach while focusing on understanding clients needs and challenges",
+            "Complete Project Management from design to delivery",
+            "We develop apps that are good in a security manner",
+            "Diverse experience based on broad range of industries",
+            "We deliver high-quality, bug-free applications",
+            "We focus on how it will profit your business"
+        ],
+        "section7_desc": "One-stop mobile app development service for all your business app development needs.",
+        "section8_heading": "Surbhi's Application Development Agile Methodology",
+        "section8_desc": "With the deep understanding and expertise of app development services, we build the best apps that add value to your business and your users’ lives. We strictly follow the design guidelines by Apple and Google to create visually appealing apps without hampering their functionality.",
+        "section9_img": "images/service-details/web_4.png",
+        "section10_heading": "Our Mobile App Development Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/mobile_layout.png",
+                "img2": "images/service-details/mobile_layout2.png",
+                "name": "Define mobile app layout",
+                "desc": "We design the high-end layout to deliver a mobile application with swift performance and a smooth user experience."
+            },
+            {
+                "img": "images/service-details/mobile_wireframe.png",
+                "img2": "images/service-details/mobile_wireframe2.png",
+                "name": "Wireframe",
+                "desc": "This is an essential part of the development process where we refine the ideas and arrange all the components of the designs in the proper way. It offers a clear understanding of how your required features will be to your designers and developers."
+            },
+            {
+                "img": "images/service-details/mobile_ui2.png",
+                "img2": "images/service-details/mobile_ui3.png",
+                "name": "UX Design",
+                "desc": "After gathering all your project requirements, we create attractive, engaging and interactive designs which provide the most desirable experience to the target audience."
+            },
+            {
+                "img": "images/service-details/mobile_dev.png",
+                "img2": "images/service-details/mobile_dev2.png",
+                "name": "Development",
+                "desc": "We follow an agile methodology to create unique and customized solutions for your business. We completely go through your requirements and begin actual coding to make your project into reality."
+            },
+            {
+                "img": "images/service-details/mobile_testing.png",
+                "img2": "images/service-details/mobile_testing2.png",
+                "name": "Quality assurance & testing",
+                "desc": "During the development stage, we perform multi-layered testing to check the performance, security, compatibility and usability. We ensure that there are no bugs and your application is flawless and efficiently functioning in the real-time."
+            }
+        ],
+        "section11_heading": "Surbhi’s Agile Web Methodology",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What is the difference between a “static” and “dynamic” website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How do you know that my new website is working as required?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "How long does it take to design a website for my business?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How much does a website cost?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What if all I need is a makeover of my current website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​I already have a domain name, can I use this for my website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What if i change my mind and want to add or change design or features of my website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "UI/UX Designing Services",
+        "section1_heading": "Your Partner On Every Stage Of Design Journey",
+        "section1_desc1": "Our core competence lies in UI/UX design services. Our creative team of UI/UX designers has been instrumental in elevating the company as a leader in UI/UX designing. An innovative, research-first design process is implemented by us to learn about your brand, your customers/clients and what they expect from a web or mobile app.",
+        "section1_desc2": "User Interface (UI) and User Experience (UX) design play the most essential role that an application offers to its users, as this is the first impression that leaves a long-lasting impact on a user’s mind. Considering the requirements of the most demanding clients of the modern-day world, Surbhi Infotech has invested heavily in the in-house capabilities of developing and delivering quality UI and UX design solutions.",
+        "section1_img": "images/service-details/ui_1.png",
+        "section2_heading": "Our UI/UX Designing Services",
+        "section2_desc": "We Build Immersive & intuitive Digital Experiences",
+        "section2_slider": [
+            {
+                "title": "Doctormera",
+                "front_img": "/images/Doctormerap14.png",
+                "desc": "Mere POS is a restaurant management service a SAAS platform that provides a service of POS to their customers, in this module Mere POS is providing 2 panels, one is on the counter module for a counter based restaurants and another is with waiter management in case there is waiter available to take the order, the waiter will take the order form the tablet, separate design is being done for the tablet.",
+                "link": "/case-study-details-meresalim"
+            },
+            {
+                "title": "Menyos",
+                "front_img": "/images/Menyosp20.png",
+                "desc": "Menyos is a POS cum a Restaurant management system where a Restaurant owner can invite as many as employees in the system who can take the order from the customers, customer can also place an order with same, they can place a mutual order as well, there is a call a waiter button is also provided so that they can call them with just a single click.",
+                "link": "/case-study-details-menyos"
+            },
+            {
+                "title": "KEN 42",
+                "front_img": "/images/Ken 42p12.png",
+                "desc": "Ken42 is a one stop SAAS platform that provides all school management administrative activity on an online portal from where management, teachers as well as students can interact with each other and communication between them happens seamlessly.",
+                "link": "/case-study-details-ken42"
+            }
+        ],
+        "section3_heading": "We use the full potential of cutting-edge technologies, like ML and AI, while offering consulting and development services to clients. Our smart solutions and services allow businesses to gain an edge over their competitors in their respective industries.",
+        "section3_img": "images/service-details/ui_2.png",
+        "section4_img": "images/service-details/ui_3.png",
+        "section4_heading": "Let's take your brand to the next level",
+        "section4_desc": "Elevate your product to the next level of creativity and set your business apart from the competitors with Nyusoft’s UI/UX Designing services.",
+        "section5_heading": "Our UI/UX services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/web_ui.png",
+                "img2": "images/service-details/web2.png",
+                "name": "Web UI/UX Design",
+                "desc": "With a unique blend of modern technologies and innovative approaches, we create responsive and adaptive web UI/UX designs with uniform cross-platform compatibility."
+            },
+            {
+                "img": "images/service-details/app_ui.png",
+                "img2": "images/service-details/app2.png",
+                "name": "App UI/UX Design",
+                "desc": "With an aim to build hyper-personalized experiences, we develop UI/UX mobile apps that that adds values and creates a brand identity."
+            },
+            {
+                "img": "images/service-details/dashboard_ui2.png",
+                "img2": "images/service-details/dashboard_ui.png",
+                "name": "Dashboard UI/UX Design",
+                "desc": "We provide dashboard UI/UX design services that allow you to extend business, with its lucrative way of presenting data clearly, to facilitate the work and decision-making process."
+            },
+            {
+                "img": "images/service-details/interactivity.png",
+                "img2": "images/service-details/interactivity2.png",
+                "name": "Interactivity",
+                "desc": "We craft interactive UI/UX experiences to bridge the goals of the businesses and the needs of users."
+            },
+            {
+                "img": "images/service-details/user_frndly.png",
+                "img2": "images/service-details/user_frndly2.png",
+                "name": "User-friendly experience",
+                "desc": "Paired with the modern technology touch, we render a completely satisfying user-friendly experience in every web/app solution we offer."
+            }
+        ],
+        "section6_heading": "Free Instant UI-UX Designing Demo",
+        "section6_desc": "We're always looking for outstanding clients who are enthusiastic about their products and customers.",
+        "section7_heading": "Elevating User Experiences, Empowering Enterprises",
+        "section7_points": [
+            "Creative and expert Team of UI/UX Designers",
+            "Highly responsive layouts to fit on any platform",
+            "Study and analysis of company branding through creative briefs",
+            "Thorough testing and QA before the final launch",
+            "Integrated support on design journey from ideation to deployment",
+            "User-friendly approach on customer experience design",
+            "Understanding your business goals and brand vision",
+            "100% confidentiality with dedicated support"
+        ],
+        "section7_desc": "We reinvent and overhaul your business by delivering exceptional customer experiences",
+        "section8_heading": "Surbhi's UI/UX Agile Methodology",
+        "section8_desc": "We at Surbhi Infotech are experts in designing superlative user experiences and interfaces that have interactive designs, smooth navigation, and aesthetically beautiful interfaces that help make a personal connection with users.",
+        "section9_img": "images/service-details/ui_4.png",
+        "section10_heading": "Our Web Development Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/understand.png",
+                "img2": "images/service-details/understand2.png",
+                "name": "Understand & Audit",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            },
+            {
+                "img": "images/service-details/research.png",
+                "img2": "images/service-details/research2.png",
+                "name": "Research",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            },
+            {
+                "img": "images/service-details/ux2.png",
+                "img2": "images/service-details/ux.png",
+                "name": "Ux Strategy",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            },
+            {
+                "img": "images/service-details/conception.png",
+                "img2": "images/service-details/conception2.png",
+                "name": "UX Conception",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            },
+            {
+                "img": "images/service-details/vishual.png",
+                "img2": "images/service-details/vishual2.png",
+                "name": "Visual & UI Design",
+                "desc": "Our expert development professionals bring the designs to life, coding a fluid frontend application, connected to a scalable and high performance backend."
+            }
+        ],
+        "section11_heading": "Surbhi’s Agile Designing Methodology",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "What's the difference between UI and UX design?",
+                        "desc": "UI (User Interface) refers to the aesthetic elements through which the users interact with your application or product. Whereas, UX (User Experience) refers to the experience that a user has with the product or application. UI deals with interaction quality."
+                    },
+                    {
+                        "title": "What is your UI/UX design process?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How much do you charge for UI/UX design?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How much time will take for UI/UX Design?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​What kind of UI/UX design services do you offer?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "​What kind of UI/UX design services do you offer?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "When a client says: “I don’t like this design.” What do you do?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What if all I need is a makeover of my current website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What is your approach for UI/UX design?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "Which are the tools and technologies that you use for UI/UX design?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Digital Marketing Services",
+        "section1_heading": "Fuel Business Growth With Our Digital Marketing Services",
+        "section1_desc1": "Investing in a strong and compelling online marketing strategy is a sure way to increase traffic and conversions. With years of experience in Digital marketing, we develop bespoke and targeted digital marketing solutions that showcase what your business offers professionally.",
+        "section1_desc2": "User Interface (UI) and User Experience (UX) design play the most essential role that an application offers to its users, as this is the first impression that leaves a long-lasting impact on a user’s mind. Considering the requirements of the most demanding clients of the modern-day world, Surbhi Infotech has invested heavily in the in-house capabilities of developing and delivering quality UI and UX design solutions.",
+        "section1_img": "images/service-details/digital_1.png",
+        "section2_heading": "Our Digital Marketing Services",
+        "section2_desc": "Leverage the latest data techniques to accelerate digital initiatives and maximize business outcomes",
+        "section2_slider": [
+            {
+                "title": "Skoovi",
+                "front_img": "/images/skoovip9.png",
+                "desc": "Skoovi is an online marketplace for people working in the Entertainment industry, especially in Bollywood, in short, it is a combination of a job portal and a Social media where an artist can show their skills a brand or production house can see their skills and contact them for the work that they are offering and get paid within the platform with basic minimum charges.",
+                "link": "/case-study-details-skooviweb"
+            },
+            {
+                "title": "Murray’s Water Boring",
+                "front_img": "/images/Murray’s Water Boring22.png",
+                "desc": "Aaron is a director of Digital six, a company based in Australia. Digital Six is inspired by the idea that our clients' success decides our own. Everything we do is geared around increasing sales and income for our clients. Digital was founded on a shared success idea.",
+                "link": "/case-study-details-murrays"
+            },
+            {
+                "title": "Agribridge",
+                "front_img": "/images/agribridgep11.png",
+                "desc": "Agribridge is a SAAS platform backed by the Funding from the Indian based Virtual Capital Firmed name Riverbridge Ventures of which Adarsh and VIIkram are the key faces of the same including many others, Adarsh and team have been part of many startups  and workinn on multiple ventures to bring the best value to their users",
+                "link": "/case-study-details-agribridge"
+            }
+        ],
+        "section3_heading": "We use the full potential of cutting-edge technologies, like ML and AI, while offering consulting and development services to clients. Our smart solutions and services allow businesses to gain an edge over their competitors in their respective industries.",
+        "section3_img": "images/service-details/digital_2.png",
+        "section4_img": "images/service-details/digital_3.png",
+        "section4_heading": "Let's take your brand to the next level",
+        "section4_desc": "Have an idea? Not sure of how to start? Talk to us. Whether you need to build a project from scratch or redesign the existing, we can help you anywhere in the project.",
+        "section5_heading": "Our Web Development Services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/social.png",
+                "img2": "images/service-details/social2.png",
+                "name": "Social Media Marketing",
+                "desc": "We promote your business through our social media marketing services as if it is our own- whether that be Facebook, Twitter, LinkedIn, Instagram, or Pinterest."
+            },
+            {
+                "img": "images/service-details/google.png",
+                "img2": "images/service-details/google2.png",
+                "name": "Google Ads",
+                "desc": "As a Google Adwords certified professionals, we know what works for local services business. We provide instant setup and target your Google ads to the audience that you select using adwords."
+            },
+            {
+                "img": "images/service-details/youtube.png",
+                "img2": "images/service-details/youtube2.png",
+                "name": "You Tube Ads",
+                "desc": "Video is an extremely powerful medium, we at Surbhi Infotech create and promote your business on Youtube after completely understanding your business objective and goals."
+            },
+            {
+                "img": "images/service-details/seo.png",
+                "img2": "images/service-details/seo2.png",
+                "name": "SEO",
+                "desc": "Our SEO experts use fair practices and white hat techniques to improve your website’s online visibility, traffic, and thereby bringing qualified leads."
+            },
+            {
+                "img": "images/service-details/email.png",
+                "img2": "images/service-details/email2.png",
+                "name": "E-mail Marketing",
+                "desc": "We offer exceptional email marketing services which help you emphasize on your customers’ beliefs, values, and therefore connect with them."
+            }
+        ],
+        "section6_heading": "Increase Your Online Visibility & Conversions",
+        "section6_desc": "We're always looking for outstanding clients who are enthusiastic about their products and customers.",
+        "section7_heading": "Digital Marketing Services That Drive Real Results",
+        "section7_points": [
+            "Results oriented & ROI (Return On Investment) services",
+            "An expert team of marketers, graphic designers, web developers, content writers, and other associates",
+            "Customized approach to digital marketing",
+            "We believe in honest and open communication at all levels.",
+            "100+ successful digital marketing strategies",
+            "Best SEO practices to drive web traffic",
+            "Consistent monitoring and reporting",
+            "Trustworthy services at reasonable cost"
+        ],
+        "section7_desc": "We constantly try to give you good results and impeccable services to your business.",
+        "section8_heading": "Surbhi's Digital Marketing Agile Methodology",
+        "section8_desc": "We combine various tools and techniques to build a brand, improve visibility, and enable greater return on investment. As a reputed digital marketing agency, we are focused on expanding your business with our best digital marketing services.",
+        "section9_img": "images/service-details/digital_4.png",
+        "section10_heading": "Our Digital Marketing Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/digital_research.png",
+                "img2": "images/service-details/digital_research2.png",
+                "name": "Research",
+                "desc": "We know the business, its audience, and its offering to provide a strong foundation upon which to build your marketing plan or website design."
+            },
+            {
+                "img": "images/service-details/digital_planing.png",
+                "img2": "images/service-details/digital_planing2.png",
+                "name": "Strategic planning",
+                "desc": "We define strategy for your project by who, why and when questions to keep the process sailing smoothly."
+            },
+            {
+                "img": "images/service-details/digital_content2.png",
+                "img2": "images/service-details/digital_content.png",
+                "name": "Content strategy",
+                "desc": "We take into account real customer data and industry research, and turns it into meaningful pieces of content that will delight your audience."
+            },
+            {
+                "img": "images/service-details/digital_implimentation.png",
+                "img2": "images/service-details/digital_implimentation2.png",
+                "name": "Implementation",
+                "desc": "Once the plan is made you need a team with the right skills to execute it. We’ll work with you to identify goals and measure progress toward them."
+            },
+            {
+                "img": "images/service-details/digital_measurment.png",
+                "img2": "images/service-details/digital_measurment2.png",
+                "name": "Measurement",
+                "desc": "We recognize and embrace that today’s marketing plans are fluid. We constantly evaluate and adjust plans by considering goals, best pratice, and market conditions."
+            }
+        ],
+        "section11_heading": "Surbhi’s Digital Marketing Services Methodology",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What is the difference between a “static” and “dynamic” website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How do you know that my new website is working as required?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​Who owns the website after it's created?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "How long does it take to design a website for my business?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "How much does a website cost?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What if all I need is a makeover of my current website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "​I already have a domain name, can I use this for my website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What if i change my mind and want to add or change design or features of my website?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Artificial Intelligence, Machine Learning",
+        "section1_heading": "Unlock AI/ML Powered Innovation",
+        "section1_desc1": "We provide innovative AI-/ML-powered solutions using deep expertise in machine learning models, algorithms, and cognitive technologies. We enable companies to strategically implement AI and machine learning solutions to create new and innovative products and services and gain a deeper competitive edge in business operations and processes.",
+        "section1_desc2": "Our team of Data Scientists and Analysts are proficient in delivering solutions to your business needs on-premise or cloud platforms. We tailor these solutions to your needs, while leveraging the latest AI tools and methodologies to create practical applications that provide the insights.",
+        "section1_img": "images/service-details.png",
+        "section2_heading": "Our Data Science, AI, ML Services",
+        "section2_desc": "Leverage the latest data techniques to accelerate digital initiatives and maximize business outcomes",
+        "section3_heading": "We use the full potential of cutting-edge technologies, like ML and AI, while offering consulting and development services to clients. Our smart solutions and services allow businesses to gain an edge over their competitors in their respective industries.",
+        "section3_img": "images/service-details/new-ml.png",
+        "section4_img": "images/service-details/ai_3.png",
+        "section4_heading": "Artificial Intelligence (AI) & Machine Learning (ML) Solutions",
+        "section4_desc": "Challenge your competitors by harnessing the power AI/ML in business",
+        "section5_heading": "Our Data Science, AI, ML Services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/ai_java.png",
+                "img2": "images/service-details/ai_java2.png",
+                "name": "Java",
+                "desc": "We develop software and Big Data ecosystems with the help of Java, the most widely used programming language."
+            },
+            {
+                "img": "images/service-details/web_react.png",
+                "img2": "images/service-details/web_react2.png",
+                "name": "React",
+                "desc": "We create applications and solutions to help your business understand and visualize insights from your data."
+            },
+            {
+                "img": "images/service-details/ai_ml2.png",
+                "img2": "images/service-details/ai_ml.png",
+                "name": "Artifical intelligence",
+                "desc": "We deliver top-of-the-line performance by offering result-oriented AI (Artificial Intelligence) services to boost the productivity of businesses."
+            },
+            {
+                "img": "images/service-details/ai_julia.png",
+                "img2": "images/service-details/ai_julia2.png",
+                "name": "Julio",
+                "desc": "Julia is highly utilized for scientific computing. We are experts in creating custom solutions using the latest technological advancements in Data Science."
+            },
+            {
+                "img": "images/service-details/ai_python.png",
+                "img2": "images/service-details/ai_python2.png",
+                "name": "Python",
+                "desc": "We develop solutions for a variety of complex data analysis problems encompassing raw and structured data in any format with python."
+            }
+        ],
+        "section6_heading": "Free Instant Data Science, AI, ML Demo",
+        "section6_desc": "Challenge your competitors by harnessing the power AI/ML in business",
+        "section7_heading": "End-to-end advanced AI/ML services",
+        "section7_points": [
+            "Comprehensive & streamlined business strategising",
+            "Team of highly qualified Data Science consultants",
+            "We create and validate high-quality models faster",
+            "Full-process from discovery to monitoring and process",
+            "Broad insights from your variety of datasets",
+            "Careful forecasting and effective root-cause analysis",
+            "Expertise across various data platforms",
+            "Vast experience and high-accuracy skills"
+        ],
+        "section7_desc": "Challenge your competitors by harnessing the power AI/ML in business",
+        "section8_heading": "Surbhi's Data Science, AI, ML Agile Methodology",
+        "section8_desc": "We use ML algorithms to identify patterns and regularities and classify data using statistical information derived from patterns and representation Our solutions are based on deep mathematical and statistical foundations and state-of-the-art techniques, including deep learning, machine learning, neural networks, and natural language processing.",
+        "section9_img": "images/service-details/ai_4.png",
+        "section10_heading": "Our Data Science, AI, ML Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/ai_design.png",
+                "img2": "images/service-details/ai_design2.png",
+                "name": "Designing the solution",
+                "desc": "Be it a machine learning algorithm, BI product, or a data management solution, we integrate, and test your product/service, as you start adjusting to your new innovative capabilities."
+            },
+            {
+                "img": "images/service-details/data_model.png",
+                "img2": "images/service-details/data_model2.png",
+                "name": "Data modeling & evaluation",
+                "desc": "We define the model that provides most accurate results by taking into consideration the accuracy of results, simplicity, and performance."
+            },
+            {
+                "img": "images/service-details/data_analysys.png",
+                "img2": "images/service-details/data_analysys2.png",
+                "name": "Analyzing the problem",
+                "desc": "We start by studying your product/service needs or business challenges, documenting requirements and your vision of a solution to connect data and value."
+            },
+            {
+                "img": "images/service-details/data_explore.png",
+                "img2": "images/service-details/data_explore2.png",
+                "name": "Exploratory data analysis",
+                "desc": "Then, we review your current data infrastructure and explore datasets to find anomalies, dependencies, missing values, and patterns."
+            },
+            {
+                "img": "images/service-details/dat_preparation.png",
+                "img2": "images/service-details/dat_preparation2.png",
+                "name": "Data preparation",
+                "desc": "We prepare data before modeling by cleansing it and transforming into a unified format."
+            }
+        ],
+        "section11_heading": "Surbhi’s Data Science, AI, ML Services Methodology",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "​What is data science?",
+                        "desc": "Data Science is a field which contains various tools and algorithms for gaining useful insights from raw data. It involves various methods for data modelling and other data related tasks such as data cleansing, preprocessing, analysis, etc."
+                    },
+                    {
+                        "title": "What is Artificial Intelligence (AI)?",
+                        "desc": "Artificial intelligence is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans. This specialization is designed to enable students to build intelligent machines with cutting edge combination of machine learning, analytics and visualization technologies."
+                    },
+                    {
+                        "title": "Why is Artificial Intelligence needed?",
+                        "desc": "Artificial intelligence is now emerging as a key accelerator of the digital transformation because of the new algorithms are continuously being developed for data utilization, shortage of skilled professionals, globally competitive edge, ethical development, and digitization."
+                    },
+                    {
+                        "title": "What’s Machine Learning (ML)?",
+                        "desc": "Machine learning is one of AI’s branches. At a high level, ML is about teaching a computer how to make accurate predictions when it is fed with data."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "How much does this cost?  ",
+                        "desc": "The cost of data science vary widely depending upon your business requirements. Our data science work is bespoke to your needs and always must provide your company with more value than it costs.  "
+                    },
+                    {
+                        "title": "Do you ever mix customer data sets?",
+                        "desc": "Never."
+                    },
+                    {
+                        "title": "What benefits can your company get from data science?",
+                        "desc": "Using data science, your company can gain a variety of financial and business related benefits, based on the short and long term goals of the company."
+                    },
+                    {
+                        "title": "Does data science have a future ?",
+                        "desc": "In the past statisticians had to manually design their predictive models and readjust them over and over again. Growing amounts of data and ever more complex business problems make this very difficult without applying the concepts of data science. In this context, data science is here to stay for a very long time."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "AR & VR Services",
+        "section1_heading": "You dream it. We build it.",
+        "section1_desc1": "With extensive expertise in Augmented Reality (AR) & Virtual Reality (VR) with a seasoned team of 3D artists, developers, and designers, Surbhi Infotech is well-positioned to turn any story into a 3D hyper-reality. Using a curated design thinking approach, we deliver end-to-end innovative XR experiences from experimental designing to visualizing complex industrial projects and theoretical modeling. ",
+        "section1_desc2": "We have highly skilled and experienced VR app developers who can create experiences and environments that don’t even exist, making you feel as if you really are ‘within’ that world. ",
+        "section1_img": "images/service-details/ar_vr_1.png",
+        "section2_heading": "Drive the future",
+        "section2_desc": "Overcoming the impossible to offer immersive virtual experiences",
+        "section2_slider": [
+            {
+                "title": "Retails",
+                "front_img": "/images/retailsp1.png",
+                "desc": "AR and VR collectively offer a unique shopping experience to your customers that help them make better decisions while saving their time and keeping them safe by either reducing contact in stores or enabling an immersive experience while shopping from home. ",
+                "link": "/retail-portfolio"
+            },
+            {
+                "title": "Fire Safety ",
+                "front_img": "/images/fire-safetyp3.png",
+                "desc": "A Fire can occur anywhere, anytime. It can be in the workplace or at homes. Knowing what to do and what not to do in such situations are essential skills to learn. It’s difficult, costly, and relatively impossible to replicate life-threatening situations for training using traditional methods alone.",
+                "link": "/firesafety"
+            },
+            {
+                "title": "Gaming VR ",
+                "front_img": "/images/gaming-vrp4.png",
+                "desc": "Over the years, the technologies that brought cricket to us all, have made breakthrough advancements, and the demand for sports content by broadcasting organisations has undergone a major redefinition.",
+                "link": "/gamingvr"
+            }
+        ],
+        "section3_heading": "We are the leading development company that aims to offer Augmented Reality & Virtual Reality solutions for different industries. The team of virtual reality development experts at Surbhi Infotech is highly capable of developing Virtual Reality applications with the modern framework that is efficiently built for the major devices.",
+        "section3_img": "images/service-details/ar_vr_2.png",
+        "section4_img": "images/service-details/ar_vr_3.png",
+        "section4_heading": "Start immersive journey of VR with us",
+        "section4_desc": "By combining art and technology, we weave magic in pixels and bytes.",
+        "section5_heading": "Our Web Development Services",
+        "section5_slider": [
+            {
+                "img": "images/service-details/ar_1.png",
+                "img2": "images/service-details/ar_2.png",
+                "name": "Social Media Marketing",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            },
+            {
+                "img": "images/service-details/explore_design.png",
+                "img2": "images/service-details/explore_design2.png",
+                "name": "Google Ads",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            },
+            {
+                "img": "images/service-details/3d.png",
+                "img2": "images/service-details/3d2.png",
+                "name": "You Tube Ads",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            },
+            {
+                "img": "images/service-details/vr_delopment.png",
+                "img2": "images/service-details/vr_delopment2.png",
+                "name": "SEO",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            },
+            {
+                "img": "images/service-details/testing.png",
+                "img2": "images/service-details/testing2.png",
+                "name": "E-mail Marketing",
+                "desc": "We develop custom web applications by focusing on the collaborative approach with Angular Js, which is a powerful framework to develop a web solution at a fast pace and without any complications."
+            }
+        ],
+        "section6_heading": "Free Instant AR/VR Demo",
+        "section6_desc": "We have the pool of AR & VR Developers who can bring your ideas into reality.",
+        "section7_heading": "Experience beyound imagination",
+        "section7_points": [
+            "A vast experience in developing augmented reality & virtual reality solutions",
+            "Team of expert and experienced AR/VR developers",
+            "A prompt and customer-focused approach",
+            "Highly functional and fully secured development",
+            "Industry specific solutions using various technologies",
+            "Customized approach to augmented reality & virtual reality",
+            "Complete Project Management from design to delivery",
+            "We focus on how it will profit your business"
+        ],
+        "section7_desc": "We build interactive experiences that drive results for your brand",
+        "section8_heading": "Surbhi's AR/VR Agile Methodology",
+        "section8_desc": "We provide end-to-end strategy, design, and development services for forward-thinking organizations looking to create extraordinary VR and AR experiences. We help clients bridge the novelty gap and build impactful and immersive applications to accomplish real business goals.",
+        "section9_heading": "Our AR/VR Development Process",
+        "section9_img": "images/service-details/ar_vr_9.png",
+        "section10_heading": "Our AR/VR Development Services",
+        "section10_slider": [
+            {
+                "img": "images/service-details/startegy.svg",
+                "img2": "images/service-details/ar_2.png",
+                "name": "AR/VR Strategy",
+                "desc": "The first step in developing VR software is creating a VR strategy. We dig deep into the choices of the customers."
+            },
+            {
+                "img": "images/service-details/explore_design.png",
+                "img2": "images/service-details/explore_design2.png",
+                "name": "Experience Design",
+                "desc": "We decide what sort of design is suitable for the software, apply the guidelines for wire-frames and visual graphics, and create VR assets."
+            },
+            {
+                "img": "images/service-details/3d.png",
+                "img2": "images/service-details/3d2.png",
+                "name": "3D Modeling",
+                "desc": "It is a stage that involves structuring the visual elements into a 3D interface."
+            },
+            {
+                "img": "images/service-details/vr_delopment.png",
+                "img2": "images/service-details/vr_delopment2.png",
+                "name": "VR Development",
+                "desc": "The development combines all the previous actions. Therefore, it becomes the focus area in any VR development process. It includes the development of a prototype before the final testing of the software. "
+            },
+            {
+                "img": "images/service-details/testing.png",
+                "img2": "images/service-details/testing2.png",
+                "name": "Testing ",
+                "desc": "It is essential to test the VR software to get further improvements. The testing process can involve simulation exercises and prototype testing."
+            }
+        ],
+        "section11_heading": "FAQs",
+        "section11_accodian": [
+            {
+                "left_section": [
+                    {
+                        "title": "What is Virtual Reality?",
+                        "desc": "Virtual reality is an artificial environment that is actually created using software and is presented to the user in a way to make him accept it as a real environment. Virtual reality is a simulated experience which can be similar or different from the real world. In simple words virtual reality is creating a virtual environment in such a way that we experience it as if we were physically present there. With the help of VR, users can step into the virtual world."
+                    },
+                    {
+                        "title": "What is Augmented Reality?",
+                        "desc": "Augmented reality (AR) is a type of interactive, reality-based display environment that takes the capabilities of computer generated display, sound, text and effects to enhance the user's real-world experience. Augmented reality combines real and computer-based scenes and images to deliver a unified but enhanced view of the world."
+                    },
+                    {
+                        "title": "How should I evaluate which tech to use: AR, VR, or MR?",
+                        "desc": "AR overlays virtual objects onto a real-world environment, making it ideal for use cases like remote assistance and replacing on-site meetings because everyone can see the same thing. MR goes one step further by anchoring virtual objects onto the real world. A great example is in complex manufacturing, where assembly instructions can go on top of the machinery and then update throughout the job. VR is a fully immersive digital environment. A top use case is learning and development (L&D) because it allows trainees to experience doing a job in an isolated and risk-free environment. For instance, an operator can learn how to use heavy machinery without having to take the machine off the line and without bringing any risk to either the machine or themselves."
+                    }
+                ]
+            },
+            {
+                "right_section": [
+                    {
+                        "title": "What are the benefits of AR/VR in different business sectors?",
+                        "desc": "Standalone VR is any VR headset that works completely by itself. In contrast, PC VR is any headset that requires a constant connection to a nearby PC."
+                    },
+                    {
+                        "title": "Can we have a Proof-of-Concept (PoC) developed before signing the actual project?",
+                        "desc": "We have expertise in undertaking small projects for developing POCs and providing a demonstration before taking on the actual project for your organization. The POC would be a cost-plus project as considerable expertise and resources need to be invested to produce the POC. In most cases, we waive-off this POC cost from the final invoice of the actual project billing as a token of goodwill."
+                    },
+                    {
+                        "title": "What is the typical AR/VR development timeline and budget?",
+                        "desc": "The typical timeline for the development of any AR/VR solution is approximately three (3) months. It also depends on the scope and its performance requirements. The testing and other finishing processes depend on several factor Our goal is to be open and transparent with our clients and always strive to deliver a product or solution at the quickest possible time frame without compromising on our quality and performance standards. Though budgets vary greatly according to final scope, we can give ballparks upon understanding your basic requirements."
+                    },
+                    {
+                        "title": "​What are the major variants of VR devices?",
+                        "desc": "VR technology can be experienced in many ways. It depends on the solution being developed, performance, user interaction, VR content and experience desired in the virtual worlds. Fusion VR understands these requirements and recommends the devices for sustained high performance using this immersive technology. The first is PC powered VR where heavy complex 3D assets and interactions are involved and the required processing happens at PC. The devices in use are typically Oculus Rift and HTC Vive categories. The second type is the Standalone VR which is ideal for watching VR movies and simple gameplay. The processing and storage are internal and the most common devices for such applications are Oculus Quest and Vive Focus categories. The final type is the VR-Box which uses mobile phones that are inserted inside the box like Google cardboard or Samsung Gear VR. Such devices are entry level, that give a basic demonstration of VR experience for the first-timers."
+                    }
+                ]
+            }
+        ]
+    }
+]

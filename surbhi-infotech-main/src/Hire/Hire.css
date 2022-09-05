@@ -1,0 +1,1423 @@
+.hire-container {
+    display: flex;
+}
+
+.container-new,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1440px;
+}
+
+.main-sec {
+    padding-top: 50px;
+}
+
+.new-class-hire .container-new {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.hire-h2-font {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    color: #FFFFFF;
+}
+
+.hire-p-class {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.contact-btn {
+    width: 212px;
+    height: 69px;
+    background: #62E7F3;
+    border: 1px solid #62E7F3;
+    margin-right: 40px;
+}
+
+.submit {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    margin-right: 0px;
+}
+
+.support-icon-block {
+    width: 20%;
+    margin-bottom: 50px;
+}
+
+.hire-left {
+    width: 50%;
+}
+
+.hire-right {
+    padding-left: 230px;
+    width: 50%;
+}
+
+.a-cost-container {
+    margin-top: 112px;
+    display: flex;
+    justify-content: center;
+}
+
+.hire-page-logo-section .logo-row img {
+    margin-bottom: 25px;
+}
+
+/* .a-cost-section {
+    max-width: 1300px;
+} */
+
+.a-cost-section h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.a-cost-section p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.section-mt-200 {
+    margin-top: 200px;
+}
+
+.process-container {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.peocess-iner h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 63px;
+    line-height: 79px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.pro-iner-span {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #CCCCCC;
+}
+
+.peocess-iner h3 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 34px;
+    color: #FFFFFF;
+    width: 324px;
+    margin: 0;
+}
+
+.margin-bottom-fot {
+    margin-bottom: 200px;
+}
+
+.hire-certified-container h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.certified-iner h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.certified-iner ul li {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.certified-container {
+    padding-top: 15px;
+}
+
+.certified-iner {
+    padding-right: 70px;
+}
+
+.swiper-slide .new-btn-hire {
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+
+.arrow {
+    padding-left: 10px;
+}
+
+/* .hire-certified-container {
+    margin-bottom: 200px;
+} */
+
+.certified-container .swiper {
+    height: 670px;
+}
+
+.certified-container .swiper-horizontal>.swiper-pagination-bullets,
+.certified-container .swiper-pagination-bullets.swiper-pagination-horizontal,
+.certified-container .swiper-pagination-custom,
+.certified-container .swiper-pagination-fraction {
+    bottom: 0px !important;
+    left: 0;
+    width: 100%;
+}
+
+.certified-container .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+.certified-container .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullet {
+    margin: 0 var(--swiper-pagination-bullet-horizontal-gap, 0px);
+}
+
+.certified-container .swiper-pagination-bullet-active {
+    background: #fff !important;
+    /* opacity: 1; */
+}
+
+.certified-container .swiper-pagination-bullet {
+    width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 100px));
+    height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 4px));
+    display: inline-block;
+    border-radius: 0;
+    background: #4D4D4D;
+    /* opacity: 0.2; */
+}
+
+.talk-to-our-expert-container {
+    padding-top: 183px;
+    /* max-width: 1450px; */
+    display: flex;
+}
+
+.talk-expert-left {
+    width: 50%;
+    padding-right: 166px;
+}
+
+.talk-expert-right {
+    width: 50%;
+}
+
+.exper-h1-talk {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    color: #FFFFFF;
+    width: 802px;
+    position: relative;
+    z-index: 9;
+}
+
+.stock-expert-talk {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 105px;
+    line-height: 132px;
+    -webkit-text-fill-color: #0D0C22;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #62E7F3;
+    opacity: 0.4;
+    position: absolute;
+    width: 802px;
+    margin-left: 20px;
+    margin-top: -612px;
+}
+
+.talk-expert-right p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #FFFFFF;
+    width: 454px;
+}
+
+/* .talk-new-expert {
+    display: flex;
+    justify-content: center;
+} */
+
+.new-talk-expert-section .new-arrow-set {
+    position: relative;
+    z-index: 99;
+    width: 300px;
+}
+
+.expert-talk-img {
+    margin: -25px;
+    padding-left: 250px;
+}
+
+.new-talk-expert-section {
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+
+
+.hire-dedicated-container {
+    padding-bottom: 200px;
+}
+
+.dedicated-hire h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.container-dedicated {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.hire-developer {
+    width: 22%;
+    padding-right: 15px;
+}
+
+.hire-developer h2 {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    width: 244px;
+}
+
+.hire-developer p {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+
+.logo-section-heading {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    color: #FFFFFF;
+    width: 589px;
+}
+
+.our-support-logos-section {
+    margin-top: 73px;
+    margin-bottom: 100px;
+    opacity: 1;
+}
+
+.logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.logo-container-section {
+    /* padding-bottom: 100px; */
+}
+
+.all-one-logo .logo-row img {
+    margin-bottom: 50px;
+}
+
+
+@media screen and (max-width:450px) {
+    .hire-left {
+        width: 100%;
+    }
+
+    .hire-h2-font {
+        font-size: 33px;
+        line-height: 50px;
+    }
+
+    .hire-p-class {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .hire-container {
+        max-width: 100%;
+        display: block;
+    }
+
+    .hire-right {
+        padding-right: 20px;
+        padding-left: 0px;
+        margin-top: 50px;
+        width: unset;
+    }
+
+    .hire-right-img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .a-cost-section h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .a-cost-section p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .a-cost-section {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .section-mt-200 {
+        margin-top: 60px;
+    }
+
+    .process-container {
+        margin-top: 0px;
+        margin-bottom: 100px;
+        display: block;
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .peocess-iner {
+        padding-bottom: 20px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .hire-certified-container h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .certified-container {
+
+        padding-right: 20px;
+        padding-top: 15px;
+    }
+
+    .certified-iner {
+        padding-right: 0;
+    }
+
+    .certified-container .swiper-pagination-bullet {
+        width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 50px));
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 100px;
+        max-width: 100%;
+        display: block;
+        padding-right: 20px;
+    }
+
+    .talk-expert-left {
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+
+    .exper-h1-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 100%;
+    }
+
+    .stock-expert-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 100%;
+        margin-left: 9px;
+        margin-top: -243px;
+        position: relative;
+    }
+
+    .talk-expert-right {
+        width: 100%;
+    }
+
+    .new-talk-expert-section {
+        padding-left: 20px;
+        padding-top: 0px;
+        padding-right: 20px;
+    }
+
+    .talk-expert-right p {
+        font-size: 18px;
+        line-height: 28px;
+        width: 100%;
+    }
+
+    .expert-talk-img {
+        margin-top: 25px !important;
+        padding-left: 0px;
+        margin: 0;
+    }
+
+    .expert-talk-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .dedicated-hire {
+        padding-right: 20px;
+    }
+
+    .dedicated-hire h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .container-dedicated {
+        display: block;
+        justify-content: center;
+        max-width: 100%;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+
+    .hire-developer {
+        padding-right: 0;
+    }
+
+    .hire-developer h2 {
+        width: 100%;
+    }
+
+    .logo-section-heading {
+
+        margin-top: 100px;
+        font-size: 32px;
+        line-height: 50px;
+        width: 100%;
+    }
+
+    .our-support-logos-section {
+        margin-right: 20px;
+    }
+
+    .logo-row {
+        column-count: 2;
+        display: block;
+        margin-bottom: 0px;
+    }
+
+    .logo-row img {
+        width: 90%;
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+
+    .logo-container-section {
+        padding-bottom: 0;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 50px;
+    }
+}
+
+@media (min-width:451px) and (max-width:650px) {
+    .hire-left {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+        width: 100%;
+    }
+
+    .hire-h2-font {
+        font-size: 32px;
+        line-height: 50px;
+    }
+
+    .hire-p-class {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .hire-container {
+        max-width: 100%;
+        display: block;
+    }
+
+    .hire-right {
+        padding-right: 20px;
+        padding-left: 0px;
+        margin-top: 50px;
+        width: unset;
+    }
+
+    .hire-right-img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .a-cost-section h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .a-cost-section p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .a-cost-section {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .section-mt-200 {
+        margin-top: 60px;
+    }
+
+    .process-container {
+        margin-top: 0px;
+        margin-bottom: 100px;
+        display: block;
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .certified-img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .peocess-iner {
+        padding-bottom: 20px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .hire-certified-container h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .certified-container {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+        padding-top: 15px;
+    }
+
+    .certified-iner {
+        padding-right: 0;
+    }
+
+    .certified-container .swiper-pagination-bullet {
+        width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 50px));
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 100px;
+        max-width: 100%;
+        display: block;
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .talk-expert-left {
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+
+    .exper-h1-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 390px;
+    }
+
+    .stock-expert-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 390px;
+        margin-left: 9px;
+        margin-top: -243px;
+        position: relative;
+    }
+
+    .talk-expert-right {
+        width: 100%;
+    }
+
+    .new-talk-expert-section {
+        padding-left: 20px;
+        padding-top: 0px;
+        padding-right: 20px;
+    }
+
+    .talk-expert-right p {
+        font-size: 18px;
+        line-height: 28px;
+        width: 100%;
+    }
+
+    .expert-talk-img {
+        margin-top: 25px !important;
+        padding-left: 0px;
+        margin: 0;
+    }
+
+    .expert-talk-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .dedicated-hire {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+    }
+
+    .dedicated-hire h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .container-dedicated {
+        display: block;
+        justify-content: center;
+        max-width: 100%;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+
+    .hire-developer {
+        padding-right: 0;
+    }
+
+    .hire-developer h2 {
+        width: 100%;
+    }
+
+    .logo-section-heading {
+        /* margin-left: 20px; */
+        margin-top: 100px;
+        font-size: 34px;
+        line-height: 50px;
+        width: 100%;
+    }
+
+    .our-support-logos-section {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .logo-row {
+        column-count: 3;
+        display: block;
+        margin-bottom: 0px;
+    }
+
+    .logo-row img {
+        width: 90%;
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+
+    .logo-container-section {
+        padding-bottom: 0;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 50px;
+    }
+}
+
+
+@media (min-width:651px) and (max-width:800px) {
+    .hire-left {
+        /* padding-left: 20px; */
+        padding-right: 20px;
+        width: 100%;
+    }
+
+    .hire-h2-font {
+        font-size: 45px;
+        line-height: 60px;
+    }
+
+    .hire-p-class {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .hire-container {
+        max-width: 100%;
+        display: block;
+    }
+
+    .hire-right {
+        padding-right: 20px;
+        padding-left: 0px;
+        margin-top: 50px;
+        width: unset;
+    }
+
+    .hire-right-img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .a-cost-section h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .a-cost-section p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .a-cost-section {
+
+        padding-right: 20px;
+    }
+
+    .section-mt-200 {
+        margin-top: 60px;
+    }
+
+    .process-container {
+        margin-top: 0px;
+        margin-bottom: 100px;
+        display: block;
+        padding-right: 20px;
+        column-count: 2;
+    }
+
+    .certified-img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .peocess-iner {
+        padding-bottom: 20px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .hire-certified-container h1 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+
+    .certified-container {
+        padding-right: 20px;
+        padding-top: 15px;
+    }
+
+    .certified-iner {
+        padding-right: 0;
+    }
+
+    .certified-container .swiper-pagination-bullet {
+        width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 50px));
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 100px;
+        max-width: 100%;
+        display: block;
+        padding-right: 20px;
+    }
+
+    .talk-expert-left {
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+
+    .exper-h1-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 390px;
+    }
+
+    .stock-expert-talk {
+        font-size: 42px;
+        line-height: 70px;
+        width: 390px;
+        margin-left: 9px;
+        margin-top: -243px;
+        position: relative;
+    }
+
+    .talk-expert-right {
+        width: 100%;
+    }
+
+    .new-talk-expert-section {
+        padding-left: 20px;
+        padding-top: 0px;
+        padding-right: 20px;
+    }
+
+    .talk-expert-right p {
+        font-size: 18px;
+        line-height: 28px;
+        width: 100%;
+    }
+
+    .expert-talk-img {
+        margin-top: 25px !important;
+        padding-left: 250px;
+        margin: 0;
+    }
+
+    .expert-talk-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .dedicated-hire {
+        padding-right: 20px;
+    }
+
+    .dedicated-hire h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .container-dedicated {
+        display: block;
+        justify-content: center;
+        max-width: 100%;
+        padding-right: 20px;
+        padding-top: 20px;
+        column-count: 2;
+    }
+
+    .hire-developer {
+        padding-right: 0;
+    }
+
+    .hire-developer h2 {
+        width: 100%;
+    }
+
+    .logo-section-heading {
+        margin-top: 100px;
+        font-size: 34px;
+        line-height: 50px;
+        width: 100%;
+    }
+
+    .our-support-logos-section {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .logo-row {
+        column-count: 4;
+        display: block;
+        margin-bottom: 0px;
+    }
+
+    .logo-row img {
+        width: 90%;
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+
+    .logo-container-section {
+        padding-bottom: 0;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 50px;
+    }
+}
+
+@media (min-width:801px) and (max-width:1000px) {
+    .process-container {
+        margin-top: 100px;
+        max-width: 100%;
+        margin-bottom: 200px;
+        display: block;
+        justify-content: center;
+        column-count: 4;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .process-container {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .peocess-iner h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 34px;
+        color: #FFFFFF;
+        width: 200px;
+        margin: 0;
+    }
+
+    .a-cost-container {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .talk-expert-left {
+        width: 50%;
+        padding-right: 0px;
+        padding-left: 20px;
+    }
+
+    .expert-talk-img {
+        margin: -25px;
+        padding-left: 315px;
+    }
+
+    .talk-new-expert {
+        display: block;
+        justify-content: center;
+    }
+
+    .exper-h1-talk {
+        font-size: 65px;
+        line-height: 80px;
+    }
+
+    .stock-expert-talk {
+        font-size: 65px;
+        line-height: 80px;
+        margin-left: 12px;
+        margin-top: -210px;
+    }
+
+    .section-mt-200 {
+        margin-top: 30px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 183px;
+        max-width: 100%;
+        display: block;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 100px;
+    }
+
+}
+
+@media (min-width:1001px) and (max-width:1200px) {
+    .peocess-iner h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 27px;
+        line-height: 34px;
+        color: #FFFFFF;
+        width: 248px;
+        margin: 0;
+    }
+
+    .process-container {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .a-cost-container {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .talk-expert-left {
+        width: 50%;
+        padding-right: 0px;
+        padding-left: 20px;
+    }
+
+    .expert-talk-img {
+        margin: -25px;
+        padding-left: 315px;
+    }
+
+    .talk-new-expert {
+        display: block;
+        justify-content: center;
+    }
+
+    .exper-h1-talk {
+        font-size: 65px;
+        line-height: 80px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .section-mt-200 {
+        margin-top: 30px;
+    }
+
+    .stock-expert-talk {
+        font-size: 65px;
+        line-height: 80px;
+        margin-left: 12px;
+        margin-top: -210px;
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 183px;
+        max-width: 100%;
+        display: block;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 100px;
+    }
+
+
+}
+
+@media (min-width:1201px) and (max-width:1366px) {
+    .peocess-iner h3 {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 27px;
+        line-height: 34px;
+        color: #FFFFFF;
+        width: 300px;
+        margin: 0;
+    }
+
+    .hire-dedicated-container {
+        padding-bottom: 100px;
+    }
+
+    .margin-bottom-fot {
+        margin-bottom: 100px;
+    }
+
+    .process-container {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .section-mt-200 {
+        margin-top: 30px;
+    }
+
+    .a-cost-container {
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .talk-to-our-expert-container {
+        padding-top: 70px;
+        max-width: 100%;
+        display: flex;
+    }
+
+    .talk-expert-left {
+        width: 50%;
+        padding-right: 80px;
+    }
+
+    .exper-h1-talk {
+        font-size: 65px;
+        line-height: 80px;
+        width: 402px;
+    }
+
+    .stock-expert-talk {
+        font-size: 65px;
+        line-height: 80px;
+        width: 402px;
+        margin-left: 20px;
+        margin-top: -367px;
+    }
+
+    .new-talk-expert-section {
+        padding-left: 40px;
+        padding-top: 70px;
+    }
+
+    .expert-talk-img {
+        margin: -25px;
+        padding-left: 160px;
+    }
+}
+
+@media (min-width:801px) and (max-width:1366px) {
+    .hire-left {
+        padding-left: 100px;
+        padding-right: 47px;
+    }
+
+    .hire-h2-font {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .hire-right-img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .hire-right {
+        padding-right: 100px;
+        padding-left: 0px;
+    }
+
+    .a-cost-section h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .a-cost-section p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .hire-certified-container h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .certified-container {
+        padding-left: 60px;
+        padding-right: 40px;
+        padding-top: 15px;
+    }
+
+    .certified-iner h2 {
+        font-size: 20px;
+    }
+
+    .certified-iner {
+        padding-right: 0px;
+    }
+
+    .certified-iner ul li {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .dedicated-hire {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .dedicated-hire h2 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+
+    .hire-developer {
+        padding-right: 8px;
+        margin-bottom: 40px;
+    }
+
+    .hire-developer h2 {
+        font-size: 25px;
+        line-height: 24px;
+        width: 100%;
+    }
+
+    .hire-developer p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .container-dedicated {
+        display: flex;
+        justify-content: center;
+        max-width: 100%;
+        padding-left: 60px;
+        padding-right: 60px;
+        column-count: 4;
+    }
+
+    .logo-section-heading {
+        margin-left: 70px;
+    }
+
+    .our-support-logos-section {
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+
+    .logo-row img {
+        width: 70%;
+    }
+
+    .collaborate-desc {
+        font-size: 17px;
+        line-height: 36px;
+        width: 386px;
+    }
+
+    .logo-container-section {
+        padding-bottom: 0;
+    }
+}
+
+
+@media (min-width:1367px) and (max-width:1800px) {
+    .hire-left {
+        padding-left: 100px;
+        padding-right: 60px;
+    }
+
+    .hire-right {
+        padding-right: 100px;
+        padding-left: 130px;
+    }
+
+    .certified-container {
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 15px;
+    }
+
+    .certified-iner {
+        padding-right: 30px;
+    }
+
+    .stock-expert-talk {
+        width: 455px;
+        margin-left: 14px;
+        margin-top: -589px;
+        font-size: 80px;
+    }
+
+    .exper-h1-talk {
+        width: 455px;
+        font-size: 80px;
+    }
+
+    .expert-talk-img {
+        margin: -25px;
+        padding-left: 177px;
+    }
+
+    .dedicated-hire {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .container-dedicated {
+        display: flex;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 1092px) {
+    .hire-developer {
+        width: 40%;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .hire-developer {
+        width: 95%;
+    }
+
+    .container-dedicated {
+        column-count: 1;
+    }
+}

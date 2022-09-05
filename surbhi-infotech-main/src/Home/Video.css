@@ -1,0 +1,88 @@
+.video-width {
+    width: 100%;
+    margin-top: -100px;
+    opacity: 0.6 !important;
+}
+
+.home-banner-section {
+    text-align: center;
+}
+
+.controlsIcon--small {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+}
+
+@media screen and (max-width:450px) {
+    .controlsIcon--small {
+        top: 34%;
+        left: 43%;
+        width: 58px;
+    }
+
+    .video-width {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+@media (min-width:451px) and (max-width:550px) {
+    .controlsIcon--small {
+        position: absolute;
+        top: 38%;
+        left: 45%;
+    }
+
+    .video-width {
+        width: 100%;
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:551px) and (max-width:650px) {
+    .controlsIcon--small {
+        position: absolute;
+        top: 40%;
+        left: 46%;
+    }
+
+    .video-width {
+        width: 100%;
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:651px) and (max-width:750px) {
+    .controlsIcon--small {
+        position: absolute;
+        top: 45%;
+        left: 47%;
+    }
+
+    .video-width {
+        width: 100%;
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:751px) and (max-width:800px) {
+    .controlsIcon--small {
+        position: absolute;
+        top: 33%;
+        left: 47%;
+    }
+
+    .video-width {
+        width: 100%;
+        margin-top: 0px;
+    }
+}
+
+@media (min-width:801px) and (max-width:1365px) {
+    .controlsIcon--small {
+        position: absolute;
+        top: 49%;
+        left: 46%;
+    }
+}
